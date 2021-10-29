@@ -1,1 +1,24 @@
 https://www.geeksforgeeks.org/python-script-to-monitor-website-changes/
+
+
+
+
+Trochę stron różnych poznajdywałem to wezme po prostu wrzuce tu wszystkie co mam otwarte
+https://github.com/jessek/hashdeep
+https://excelfiles.space/en/python-en/python-script-to-monitor-changes-on-a-webpage
+https://veteransec.com/2020/05/08/python-script-to-monitor-website-changes/
+https://www.cert.pl/posts/2010/03/techniki-wykrywania-zlosliwych-stron-www/
+https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+https://www.edureka.co/blog/web-scraping-with-python/
+https://realpython.com/beautiful-soup-web-scraper-python/#dynamic-websites
+https://stackoverflow.com/questions/20136423/get-all-javascript-code-in-the-current-page-programmatically
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f
+https://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python
+https://hub.packtpub.com/web-scraping-python-part-2/
+http://blog.databigbang.com/web-scraping-ajax-and-javascript-sites/
+
+
+
+
+
