@@ -1,10 +1,14 @@
+#link do strony z hashami:
+#https://www.pythonpool.com/python-sha256/
+#
+
 import hashlib
 
 #kod_zródłowy - kod obserwowanej strony
 kod_zródłowy = "aerghbaerigu"
-
+decode = kod_zródłowy.encode()
 # stworzenie hasha  | możnaby to nawet dać po prostu jako funkcje czy fragment innego większego kody (niekoniecznie main)
-Hash = hashlib.sha224(kod_zrodlowy).hexdigest()
+Hash = hashlib.sha512(kod_zrodlowy).hexdigest()
 
 
 #Ta pętla byłaby dobra żeby ją wykorzystać w main aby co jakiś odstęp czasu sprawdzała strone
