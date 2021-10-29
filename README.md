@@ -12,3 +12,10 @@ w głównym pliku:
 -podział kodu na head i body
 -odpowiedź do użytkownika:
 brak zmian lub zmiana (jaka linia/e kodu jest/są inne, wypisać część zmienioną z poprzednią jeśli taka istenieje)
+
+
+
+Tak czytając te strony to tak sobie pomyślałem co do tych właśnie plików wykorzystywanych przez strone a głównie .js
+że to raczej rzadko się zmienia bo to jest do różnych funkcjonalności strony, tak więc tutaj łatwo by było stwierdzić że zmiana/dodanie/usunięcie jakiegoś pliku jest dość sporym niebezpieczeństwem. I tak to po prostu by się przechowywało hashe tych plików, porównywało z tymi co są aktualnie na stronie.
+
+A tak jeszcze co do np wyszukiwania jakiś zmian na stronie to np biblioteka BeatifulSoup daje możliwość wyszukiwania każdej lini kodu z wyszukiwanym tagiem, co też mogłoby bardzo ułatwić szukanie jakiś niebezpieczeństw czy też zmian które np raczej miejsca mieć nie powinny.
