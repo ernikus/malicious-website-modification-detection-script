@@ -19,6 +19,15 @@ https://hub.packtpub.com/web-scraping-python-part-2/
 http://blog.databigbang.com/web-scraping-ajax-and-javascript-sites/
 
 
+Więcej udało mi się znaleźć oczywiście używając angielskiej terminologii czyli "defacement", ale nvm tutaj linki:
+https://www.researchgate.net/publication/306067946_AMA_Static_Code_Analysis_of_Web_Page_for_the_Detection_of_Malicious_Scripts
+https://github.com/CERT-hr/Web-Defacement-Detection-Tool
+https://github.com/silverfoxy/DefaceDetectionBot
+https://www.silverf0x00.com/website-deface-detection-script/
+https://github.com/marcosValle/deface-monitor
+https://github.com/R3M4G/Deface
+https://github.com/blairjames/skim
+https://github.com/hackingyseguridad/webdeface
 
 
 
