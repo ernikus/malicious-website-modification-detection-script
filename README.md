@@ -1,4 +1,6 @@
 
+
+  
 # Malicious Website Modification detection Script
 
 ¯ \ _(ツ) _ /¯
@@ -8,8 +10,9 @@
 
  - [x] Basic Concept
  - [x] Research
- - [ ] Brainstorm
+ - [x] Brainstorm
  - [ ] More Advanced Concept [with creating Roadmap]
+ - [ ] Control Meeting
  - [ ] Create Script
  - [ ] Create Test WebPage
  - [ ] Script Testing
@@ -19,23 +22,17 @@
  - [ ] Celebrate 🎉🎉🎉
 
 ## Concept
-- pobieranie kodu źródłowego strony monitorowanej (tak myśle że dobrze będzie też od razu na tym etapie też usuwać linie które są jako komentarze)
 
-- program do haszowania
-
-- podział kodu na mniejsze części wg tagów
-
-
-### W Głównym Pliku:
-- podanie strony sprawdzanej przez program
-
-- porównywanie hashy jako funkcja
-
-- wczytywanie wcześniej zapisanego stanu strony
-
-- podział kodu na head i body
-
-- odpowiedź do użytkownika: brak zmian lub zmiana (jaka linia/e kodu jest/są inne, wypisać część zmienioną z poprzednią jeśli taka istenieje)
+ 1. Wprowadzenie URL naszej strony
+ 2. Odczytanie poprzedniego zapisanego stanu dla podanej strony
+ 3. Pobranie kodów źródłowych dla podanej strony  - HTML oraz .JS
+ 4. Hashowanie każdego kodu .JS
+ 5. Porównanie hashy .JS
+ 6. Jeśli nie są równe - informacja do administratora, że plik nie odpowiada swojemu zapisowi
+ 7. Porównanie kodów HTML
+ 8. Jeśli nie są równe - dalsza analiza kodów (ignorowanie komentarzy, wykrycie czy zmiana występuje w części HEAD czy BODY), a następnie wysłanie tych informacji do administratora
+ 9. Jeśli wszystko jest równe - zapisanie wszystkich kodów do folderu
+ 10. <Program się zapętla>
 
 ## Conversation Script (org.: "Co Trzeba Tak Wstępnie")
 
@@ -58,7 +55,7 @@ lyjnamur:
 
 ernikus:
 
-> *Ja proponuję poprzestać tylko na Pythonie własnie z Biblioteką BeatifulSoup lub Requests. Nie rozdrabniajmy sie i skupmy się na tylko
+> *Ja proponuję poprzestać tylko na Pythonie właśnie z Biblioteką BeatifulSoup lub Requests. Nie rozdrabniajmy się i skupmy się na tylko
 > jednym skrypcie - zapomnijmy o JS albo czymś innym. Najlepiej jeśli
 > nasz skrypt będzie aż tak bardzo uniwersalny jak to możliwe - żeby
 > działał w miarę na wszystkich stronach internetowych a nie tylko
