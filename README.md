@@ -1,6 +1,3 @@
-
-
-  
 # Malicious Website Modification detection Script
 
 ¯ \ _(ツ) _ /¯
@@ -65,8 +62,21 @@ ernikus:
 
 > *Musimy pamiętać też o **Stronie Testowej**, na której będziemy testować nasz skrypt!*
 
+ernikus:
+
+> *Dodatkowo do naszych bibliotek możemy opcjonalnie dołączyć PhantomJS (scrap .JS files) ale myślę że głównie sobie poradzimy z BeautifulSoup i Requests. Ogólnie koncept mamy spoko. Materiały i znajomość tego też spoko. Niepokoi jedynie ta autoryzacja - może na spotkaniu w środę coś uda się więcej dowiedzieć :)*
+
+
+
 ## Related
 
 Here are some related projects
 
 [Awesome README](https://github.com/ernikus/sus-changes-on-webpage-script/blob/main/help%20links.txt)
+
+
+
+### BONUS
+
+
+<img src="https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" height="300"/>
