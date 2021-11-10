@@ -8,9 +8,18 @@
  - [x] Basic Concept
  - [x] Research
  - [x] Brainstorm
- - [ ] More Advanced Concept [with creating Roadmap]
- - [ ] Control Meeting
+ - [x] Control Meeting
+ - [x] More Advanced Concept [with creating Roadmap]
  - [ ] Create Script
+	 - [ ] Wprowadzenie URL
+	 - [ ] Odczyt ostatnich danych
+	 - [ ] Pobranie kodów HTML i .JS
+	 - [ ] Hashowanie .JS
+	 - [ ] Porównanie .JS
+	 - [ ] Porównanie HTML (w tym dalsza analiza)
+	 - [ ] Poinformaowanie tekstowe (ew. + mailowe) adminisitratora
+	 - [ ] Zapisanie wszystkich kodów do folderu
+	 - [ ] Pętla całego skryptu
  - [ ] Create Test WebPage
  - [ ] Script Testing
  - [ ] Create Documentation
@@ -30,6 +39,17 @@
  8. Jeśli nie są równe - dalsza analiza kodów (ignorowanie komentarzy, wykrycie czy zmiana występuje w części HEAD czy BODY), a następnie wysłanie tych informacji do administratora
  9. Jeśli wszystko jest równe - zapisanie wszystkich kodów do folderu
  10. <Program się zapętla>
+
+### Functions
+
+ - [ ] Odczyt Danych		***E***
+ - [ ] Pobranie HTML		***E***
+ - [ ] Pobranie JS			***E***
+ - [ ] Hashowanie JS		***A***
+ - [ ] Porównanie JS		***A***
+ - [ ] Porównanie HTML		***E***
+ - [ ] Info do Admina		***A***
+ - [ ] Zapis Danych		***A***
 
 ## Conversation Script (org.: "Co Trzeba Tak Wstępnie")
 
