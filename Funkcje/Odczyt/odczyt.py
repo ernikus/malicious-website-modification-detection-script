@@ -24,17 +24,19 @@ def get_dirs(path):
     
     for entry in dir_entries:
         if entry.is_dir():
-            info = entry.stat()
-            time = os.path.getctime(entry)
+            if not entry.name.startswith( '!' ):
             
-            # print(entry.name, "\t", time)
-            
-            if time > max_time:
-                # print("Changed from: ", max_dir, " to: ", entry.name)
-                # print("Time before: ", max_time, " , after: ", time)
+                info = entry.stat()
+                time = os.path.getctime(entry)
                 
-                max_time = time
-                max_dir = entry.name
+                print(entry.name, "\t", time)
+                
+                if time > max_time:
+                    print("Changed from: ", max_dir, " to: ", entry.name)
+                    print("Time before: ", max_time, " , after: ", time)
+                    
+                    max_time = time
+                    max_dir = entry.name
                        
     return(max_dir)
                 
