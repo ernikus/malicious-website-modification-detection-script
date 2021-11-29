@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>HTML Save : Host HTML WebPage online</title><meta name='description' content='Host single HTML WebPage online for free. Static hosting made simple and fast. Paste HTML code and Submit to save to host online.'> <script src="/cdn-cgi/apps/head/zF6E4Dz26kR4w5wbzRAWpQ_F_CU.js"></script><script data-ad-client="ca-pub-8744459230456906" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="document.getElementById('61a4fcc45ab38').click();"></script>
+<link rel="stylesheet" type="text/css" href="https://htmlsave.com/scriptcss/style.css">
+<meta name="keywords" content="html save,save html,markdown pastebin,host,paste,html paste,paste html,html world,html code,html editor,htmlsave,html,save,pastebin,javascript,js,css,free,hosting,html converter, html online, file save, html code online,host html online,text to html converter,paste html, html page online,">
+<link rel="icon" href="https://cdn.statically.io/img/i.imgur.com/0gLFwg0.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://cdn.statically.io/img/i.imgur.com/0gLFwg0.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://cdn.statically.io/img/i.imgur.com/0gLFwg0.png">
+<meta property="og:image" content="https://cdn.statically.io/img/i.imgur.com/nTTy6cC.png" />
+<meta property=”og:title” content="Save Single HTML page online for free" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="msvalidate.01" content="1F3284FA31EF16F445DEA3BD3CAA66AC" />
+<link async rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script async defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+<script src="https://accounts.google.com/gsi/client"></script>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<header>
+<noscript><div class="text-light bg-danger text-center" style="font-size:20px">For full functionality of this site it is necessary to enable JavaScript.</div></noscript>
+<nav class="navbar navbar-expand-lg navbar-light bg-light ">
+<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<a class="navbar-brand" title="HtmlSave" href="https://htmlsave.com" translate="no"><img title="HtmlSave" src="https://cdn.statically.io/img/i.imgur.com/ojwyr3W.png?w=40h=40&f=auto" alt="HtmlSave"><strong style="font-size: 24px;">Html</strong><span style="color:#7279E1;font-size: 24px;font-weight: bold;">Save</span></a>
+<div class="collapse navbar-collapse " id="navbarTogglerDemo02">
+<ul class="navbar-nav mr-auto mt-2 mt-md-0">
+<li class="nav-item a">
+<a class="nav-link text-body" title="Homepage" href="../"><strong>Home</strong> </a>
+</li>
+<li class="nav-item a">
+<a class="nav-link text-body" title="About this Service" href="../about.php"><strong>About</strong> </a>
+</li>
+<li class="nav-item a">
+<a class="nav-link text-body" title="Blog" target="_blank" href="../blog/"><strong>Blog</strong> </a>
+</li>
+<li class="nav-item a ">
+<a class="nav-link text-body" title="Pricing" href="../pricing.php">
+<div style="color:MediumSeaGreen;"><strong>PREMIUM<sup style="color:#7279E1" class="blink_me">upgrade</sup></strong></div> </a>
+</li>
+</ul>
+<ul id="loginnow" class="navbar-nav ml-auto">
+<a href="https://htmlsave.com/digitalocean" rel="nofollow noopener" target="_blank" title="Digitalocean: $100 Free Credit" class="btn btn-outline-dark btn-xs" style="margin-left:5px;margin-top:5px;"><span>Hosting deal on</span> <img src="https://cdn.statically.io/img/i.imgur.com/vCykouC.png?w=86&h=30&f=auto" alt="affiliate"></a>
+<a href="/google" title="Sign in with Google" class="btn btn-dark btn-xs" style="margin-left:5px;margin-top:5px;"><img src="https://cdn.statically.io/img/htmlsave.com/images/google.png?w=20h=20&f=auto" alt="google sign in"> Sign in with Google </a>
+<a href="/login.php" title="Login to WebSite" class="btn btn-dark btn-xs" style="margin-left:5px;margin-top:5px;"><img src="https://cdn.statically.io/img/htmlsave.com/images/user4.png?w=20h=20&f=auto" alt="login to website"> Login to WebSite </a>
+</ul>
+<div id="g_id_onload" data-client_id="902820625665-0dogeoripiommt97d7klpvoq4au2keoe.apps.googleusercontent.com" data-login_uri="https://htmlsave.com/user/actiongoogle.php" data-cancel_on_tap_outside="false" data-context="signin"></div>
+</div>
+</nav>
+</header>
+<div class="body">
+<center><div class="alert alert-info rounded-0"><u>Support Us</u>: with the Premium plan for just <b>$1.59/MONTH</b>.<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div></center>
+<div id="errormessagewarning"></div>
+<style>
+ul li{
+    color: white;
+}
+	::placeholder{
+	color: white !important;
+}
+	::-webkit-input-placeholder { /* Edge */
+  color: white;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white;
+}
+
+.grecaptcha-badge{
+	visibility: collapse !important;
+}
+
+#htmlForm:valid .submitbutton {
+  background-color: #28a745  !important;
+  color: #fff  !important;
+}
+	pre{
+	 background-color: #22242b !important;
+	 border: 2px solid #fff !important;
+	 color:#fff !important;
+}
+</style>
+<head>
+<meta property="og:url" content="https://htmlsave.com/">
+
+<link rel="canonical" href="https://htmlsave.com" />
+</head>
+<div class="container-fluid text-light" style="font-size: 14pt;text-align: justify;">
+<div class="row pt-1">
+<div class="col-md-2">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8744459230456906" data-ad-slot="9144725022" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="col-md-8">
+<center><br><div id="address"> <h1 class="text-center class" style="font-size:20px"><strong>Create a simple free HTML website online</strong><br></h1><p class="text-center class" style="font-size:20px; ">Html Hosting made simple and fast for beginners. Just paste Code and Submit.</p></div> </center>
+<div class="pt-2 container-fluid">
+<div class='form-inline'>
+<div style="width:100%;" class="form-group ">
+<textarea required aria-label="Html Code" type="text" class="form-control rounded-0 " rows="14" name="htmlcode" style="width:100%;" placeholder="Paste HTML..." maxlength="30000" data-hj-whitelist id="htmlcode"></textarea>
+</div>
+<div class="pt-2 m-auto ">
+<input aria-label="Custom Name" title="Custom Name is Optional" type="text" onkeyup="lettersOnly(this)" style="margin-bottom: 4px;margin-right: 4px;" class="control" maxlength="15" id="custom" name="custom" placeholder="Custom SubDomain" data-hj-whitelist><input aria-label="Password" title="Provide Password to Update Later" type="password" style="margin-right: 4px;margin-bottom: 5px;" class="control forml " maxlength="50" name="password" placeholder="Password" id="passer"><label hidden for="g-recaptcha-response">recaptcha verification</label><button data-toggle='modal' data-target='#signup' data-backdrop='static' type='submit' name='submit' title="Submit to Save" onclick="topFunction();" class="control forml rounded-3 text-light pr-5 pl-5 submitbutton pulse" id="addData"><span id="submitnow">Submit to Save</span></button>
+</div> </div>
+<script>
+function lettersOnly(e){e.value=e.value.replace(/[^a-z0-9]/gi,"")}function topFunction(){document.body.scrollTop=0,document.documentElement.scrollTop=0}function recapinfo(){alert("This Field is to show the reCaptcha Verification process. Make sure the field contains a token in a second. 🧐 \n\nIf not, please wait a second to generate before you submit to save. You can Refresh the page to create new Token. 🙂")}
+	</script>
+</div>
+</div>
+<div class="col-md-2">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8744459230456906" data-ad-slot="9144725022" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+    if(window.innerWidth >= 800 ) {
+   (adsbygoogle = window.adsbygoogle || []).push({});
+   }
+</script>
+</div>
+<div class="container  pt-2">
+<div class="row pt-1">
+<div class="col-md-2">
+</div>
+<div class="col-md-8">
+<div class="box">
+<h2 class="text-center text-light  pt-4 pb-4"><u>How Does it Work?</u></h2>
+<p><span>We help you to save and host your HTML pages along with css, javascript, txt files online for free. This service is providing a simple playground for playing with HTML codes.</span></p>
+<p style="text-align: center;"><span><strong>Example Site 👉🏻 </strong><a href="https://example.htmlsave.net" target="_blank" rel="noopener" title="An example of Hosted Html Site" style="font-size: 14pt; color:#fff"><u>https://example.htmlsave.net</u></a>
+<br><strong>Example HTML Page 👉🏻 </strong><a href="https://example.htmlsave.net/page1.html" target="_blank" rel="noopener" title="An example of Hosted Html Page" style="font-size: 14pt; color:#fff"><u>https://example.htmlsave.net/page1.html</u></a>
+<br><strong>Example CSS Link 👉🏻 </strong><a href="https://example.htmlsave.net/style.css" target="_blank" rel="noopener" title="An example of Hosted CSS Code" style="font-size: 14pt; color:#fff"><u>https://example.htmlsave.net/style.css</u></a>
+<br><strong>Example JS Link 👉🏻 </strong><a href="https://example.htmlsave.net/background.js" target="_blank" rel="noopener" title="An example of Hosted JavaScript Code" style="font-size: 14pt; color:#fff"><u>https://example.htmlsave.net/background.js</u></a>
+<br>
+<center><pre class=" rounded-0 "><a style="color:#ff5733">Embed Site Homepage</a><br>&lt;script src=&quot;https://htmlsave.com/api/embed/example.js&quot;&gt;&lt;/script&gt;<br><a style="color:#ff5733">Embed Site page</a><br>&lt;script src=&quot;https://htmlsave.com/api/embed/example/page1.js&quot;&gt;&lt;/script&gt;<br></pre></center>
+<center><p style="font-size:15px;">where 'example' is the Custom Subdomain Name</p></center>
+</span></p>
+<center><a href="https://discord.gg/xWCgBCJ" title="Discord" style="margin-top: 5px;" target="_blank" rel="noreferrer" class="btn btn-dark"><img src="https://cdn.statically.io/img/htmlsave.com/images/discord.png?w=29&h=29&f=auto" alt="Discord"> Join on Discord </a><a href="https://www.youtube.com/channel/UCHJlPR9e34i5V958ghH7nFQ/" style="margin-top: 5px; margin-left:5px;" title="YouTube" target="_blank" rel="noreferrer" class="btn btn-dark"><img src="https://cdn.statically.io/img/htmlsave.com/images/youtube.png?w=29&h=29&f=auto" alt="HtmlSave YouTube Channel"> YouTube Channel </a></center><br>
+<h2 style="text-align: center;"><span style=" font-size: 18pt;color: #ffffff;"><u>How to save HTML?</u></span></h2><br>
+<ul>
+<li>Paste or write your HTML code or text in the field provided. (<a title="Html code is Required">mandatory</a>)</li>
+<li>Provide a custom name to get a customised URL. (<strong><u><a title="Custom Name is Optional">optional</a></u></strong>)</li>
+<li>Provide a password for the content. (<strong><u><a title="Provide Password to Update Later">optional</a></u></strong>)</li>
+<li>Click on Submit to Save button to save the HTML code or text.</li>
+<li>You get the Rendered HTML Page link which you can share with others.</li>
+<li>Add more pages to the site which can be html, css, js, txt, xml, json.</li>
+<li>There are some <u><a style="color: #ffffff" title="Conditions for Hosting" href="../about.php" target="_blank"><strong>Conditions for Hosting</strong></a></u> your Html Code.</li>
+</ul>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/md9Xg_MSe2w?loop=1"></iframe>
+</div> <br>
+<p>Hosting HTML code online is really simple with <a style=" text-decoration: underline; color: #fff;" title="HtmlSave" href="../"><strong>HtmlSave.com</strong></a>. There are popular services like <a href="https://pastebin.com" style="color: #ffffff;" title="Pastebin" target="_blank" rel="noreferrer nofollow">Pastebin</a>, <a style="color: #ffffff;" href="https://codepen.io" target="_blank" rel="noreferrer nofollow" title="CodePen">CodePen</a>, <a href="https://jsfiddle.net" target="_blank" rel="noreferrer nofollow" style="color: #ffffff;" title="JsFiddle">JsFiddle</a> and many others, which provide editing and checking how HTML, CSS and javascript in a browser.</p>
+<p>But these are limited to two things, in order to host the rendered code online for sharing you may need to login to their website with all your personal information. And they only compile in an Iframe.</p>
+<p>We at <a title="HtmlSave" style="text-decoration: underline; color: #fff;" href="../"><strong>HtmlSave.com</strong></a> help you to paste your HTML code and submit to save it online. That doesn't mean we don't collect any information from you. We collect the IP address of each HTML code you are hosting on this website.</p>
+<p>For the purpose of editing or updating the pasted HTML code, we provide a password field. So the one who hosted the code can only update the content later.</p>
+<p>Use this website as a testing place or a playground for hosting your HTML codes temporarily. There are some Limitations and Conditions for using this website for hosting your content. Go through <a style="color: #ffffff; text-decoration: underline;" title="Terms of Service" href="../tos.php" target="_blank"><strong>Terms of Service</strong></a>, <a title="Privacy Policy" style="color: #ffffff; text-decoration: underline;" href="../privacy.php" target="_blank"><strong>Privacy Policy</strong></a> and <a title="About this Service" style="color: #ffffff; text-decoration: underline;" href="../about.php" target="_blank"><strong>About page</strong></a> to know more about these.</p>
+<br>
+<center> <img title="HtmlSave.com" alt="HtmlSave.com" src="https://cdn.statically.io/img/htmlsave.com/images/htmlsave.png">
+</center>
+<br>
+<p>There is a limitation of <strong>30,000 characters</strong> per HTML code or text. If you don't provide any password for the Page, you cannot edit the content in future.</p>
+<p>By default, all the codes you posted on this site will be public. And it may appear on search results in any search engines. You can't make the data private. Anyone can browse through some of the last HTML codes hosted on this website from the <a style="color: #ffffff;" href="../login.php" target="_blank">Dashboard</a>.</p><p> Also, you can edit the content later by logging on to your website by providing a custom name and password you have set.</p>
+<p>When you host content on this website, you are responsible for that content. We do not take any liability regards this. Also, we have all the rights to access, modify and delete any content you host without any statement.</p>
+<p>Moreover, there is an option to report any content present on this site, which you think should be removed. We may take appropriate action if it is a legitimate request.
+<br /><br /></p>
+</div>
+</div>
+<div class="col-md-2">
+</div>
+</div>
+</div></div></div>
+<div class="modal fade" id="signup" tabindex="-1" role="dialog" aria-labelledby="signupCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title text-dark" id="privacyLongTitle">You need to Sign In to Save 🙌</h3>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<p class="text-dark">Create awesome Html sites with Google or Microsoft Account. Currently we only allow Signed In users to create new Html sites.</p>
+Read the <a href="/privacy.php" title="Privacy Policy" target="_blank" class="text-primary">Privacy Policy</a> , <a href="/cookie-policy.php" title="Cookie Policy" target="_blank" class="text-primary">Cookie Policy</a> , <a href="/tos.php" title="Terms of Service" target="_blank" class="text-primary">TOS</a>
+</div>
+<div class="modal-footer">
+<a href="/google" title="Sign in with Google" class="btn btn-dark btn-block" style="margin-top:5px;margin-bottom:8px;"><img src="https://cdn.statically.io/img/htmlsave.com/images/google.png?w=20&h=20&f=auto" alt="google sign in"> Sign in with Google </a>
+<a href="/microsoft" title="Sign in with Microsoft" class="btn btn-dark btn-block" style="margin-top:5px;margin-bottom:8px;"><img src="https://cdn.statically.io/img/i.imgur.com/U9yDNT2.png?w=20&h=20&f=auto" alt="microsoft sign in"> Sign in with Microsoft </a>
+<a href="/facebook" title="Sign in with Facebook" class="btn btn-dark btn-block" style="margin-top:5px;margin-bottom:8px;"><img src="https://cdn.statically.io/img/i.imgur.com/Y0cAEFZ.png?w=20&h=20&f=auto" alt="facebook sign in"> Sign in with Facebook </a>
+
+</div>
+</div>
+</div>
+</div>
+<a hidden id="61a4fcc45ab38" href="#PleaseDisableAdblock_61a4fcc45ab37"></a>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center text-light pt-3 pb-3   col-xs-12 col-ms-12 col-md-12 col-lg-12">
+<a href="/tool/editor.html" target="_blank" class="text-light" title="Online HTML Editor">HTML Editor</a> | <a href="/tos.php" class="text-light" title="Terms of Service" data-backdrop="static" data-toggle="modal" data-target="#tos">TOS</a> | <a href="/privacy.php" class="text-light" data-toggle="modal" title="Privacy Policy" data-backdrop="static" data-target="#privacy">Privacy</a> | <a href="/report.php" title="Contact Us" class="text-light" data-toggle="modal" data-target="#reporturl"> Contact</a> | <a title="Nets4 Sponsor Blog" href="https://nets4.com/?utm_source=htmlsave.com&utm_medium=link&utm_campaign=footer" rel="dofollow" class="text-light" target="_blank">Nets4</a> <br>
+<div class="btn-appstore" style="margin-top: 10px;margin-bottom: 10px;">
+<div class="btn-set-group">
+<a href="https://discord.gg/xWCgBCJ" title="Discord" target="_blank" rel="noreferrer" class="btn btn-dark"><img src="https://cdn.statically.io/img/htmlsave.com/images/discord.png?w=29h=29&f=auto" alt="Newsletter"> Join on Discord</a> <a href="https://addons.mozilla.org/en-US/firefox/addon/html/" title="FireFox Extension" target="_blank" rel="noreferrer" class="btn btn-dark"><img src="https://cdn.statically.io/img/htmlsave.com/images/firefox.svg" alt="HtmlSave Add-on for Firefox"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/cnfajmeeaeodngfaajglgghdfpfdmlkd" title="Edge Extension" target="_blank" rel="noreferrer" class="btn btn-dark"><img src="https://cdn.statically.io/img/htmlsave.com/images/edgebrowser.png?w=29h=29&f=auto" alt="HtmlSave Add-on for Edge"></a>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="reporturl" tabindex="-1" role="dialog" aria-labelledby="aboutCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title text-dark" id="reportLongTitle">Contact Us to Report</h3>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<p class="text-dark">You can report us any HTML code hosted on this domain or can contact us for any other reason through the Report session.</p>
+<a href="/report.php" title="Contact Us" target="_blank" class="text-primary"><strong>Goto the Report Session</strong></a>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="tos" tabindex="-1" role="dialog" aria-labelledby="tosCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title text-dark" id="tosLongTitle">Terms of Service</h3>
+
+</div>
+<div class="modal-body">
+<p class="text-dark">Through using this website, you need to fully aware about all the policies, terms and conditions of the site. This is important for the proper usage of the service.</p>
+<a href="/tos.php" title="Terms of Service" target="_blank" class="text-primary"><strong>Read the Terms of Service</strong></a>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Accept</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="privacy" tabindex="-1" role="dialog" aria-labelledby="privacyCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title text-dark" id="privacyLongTitle">Privacy Policy</h3>
+
+</div>
+<div class="modal-body">
+<p class="text-dark">You need to aware of the Policies of this website. We collect certain data from you for improving the performance, features and better understanding of the audience of this website.</p>
+<strong> Read the <a href="/privacy.php" title="Privacy Policy" target="_blank" class="text-primary">Privacy Policy</a> , <a href="../cookie-policy.php" title="Cookie Policy" target="_blank" class="text-primary">Cookie Policy</a></strong>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Accept</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade 61a4fcc45ab37" id="61a4fcc45ab37" tabindex="-1" role="dialog" aria-labelledby="upgradeCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h3 class="modal-title text-dark" id="upgradeLongTitle">Please Disable Adblocker <img src="https://cdn.statically.io/img/i.imgur.com/GdjFgYO.gif?w=35h=35&f=auto"> </h3>
+
+</div>
+<div class="modal-body">
+<p class="text-dark">Please whitelist us from Adblockers. It will help us to meet the cost of the Server. Contact us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cebdbbbebea1bcba8ea6baa3a2bdafb8abe0ada1a3">[email&#160;protected]</a> if you have trouble in using the site with advertisements. You can also upgrade your account to premium to support us..<p>
+<a href="/pricing.php" title="Pricing" target="_blank" class="text-primary"><strong>Upgrade Now </strong></a>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" onclick="document.location.replace('','');" data-dismiss="modal">I've Disabled my Adblock</button>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var url = window.location.href;
+if(url.indexOf('#PleaseDisableAdblock_61a4fcc45ab37') != -1 ) {
+    $('#61a4fcc45ab37').modal({
+    backdrop: 'static',
+    keyboard: false,
+	show: true
+});
+}
+</script>
+<script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.2/app.js" async></script>
+<script>
+    var truepush = window.truepush || [];
+
+    truepush.push(function(){
+        truepush.Init({
+            id: "5ef817e1a0f281709b0c81b3"
+        },function(error){
+          if(error) console.error(error);
+        })
+    })
+    </script>
+</footer>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6b5d236a79714e9e',m:'Q3pUe7R_GCO2MwLO4RUSMG0YFOrp3XaP2_NbuQocQtw-1638202564-0-ARm05mYKYJQrClamsAF0VrOXF0Tm5JxJ00KAj4OomZmRyzdDTBDrWMtEAzASw0bXO1QnwWaYQWZjnPNCpLlu+lvARQgoAaM3qHIYBcFaRI5rRx5X0mNFbJF1FuejKd+Irg==',s:[0x39743dcd5e,0x92bda0996d],u:'/cdn-cgi/challenge-platform/h/b'}})();</script>
