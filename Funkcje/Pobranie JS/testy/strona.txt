@@ -1,0 +1,386 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script src="https://code.jquery.com/jquery-1.8.3.min.js" type="text/javascript"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/nav.js"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/required.js"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/modernizr.js"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/jquery.typographer.js" type="text/javascript"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/jquery.typographer.common.js" type="text/javascript"></script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/jquery.typographer.orphan.js" type="text/javascript"></script><script type="text/javascript">
+jQuery(document).ready(function($) {
+    $("ul.sub-menu").parent().addClass('parent');  
+});
+</script><script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.paniswojegoczasu.pl/#website","url":"https://www.paniswojegoczasu.pl/","name":"Pani Swojego Czasu","description":"Zarz\u0105dzanie czasem dla Kobiet","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.paniswojegoczasu.pl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pl-PL"},{"@type":["WebPage","CollectionPage"],"@id":"https://www.paniswojegoczasu.pl/blog/#webpage","url":"https://www.paniswojegoczasu.pl/blog/","name":"Blog - Pani Swojego Czasu","isPartOf":{"@id":"https://www.paniswojegoczasu.pl/#website"},"datePublished":"2016-06-06T00:09:28+00:00","dateModified":"2016-06-06T00:09:28+00:00","breadcrumb":{"@id":"https://www.paniswojegoczasu.pl/blog/#breadcrumb"},"inLanguage":"pl-PL","potentialAction":[{"@type":"ReadAction","target":["https://www.paniswojegoczasu.pl/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://www.paniswojegoczasu.pl/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Strona g\u0142\u00f3wna","item":"https://www.paniswojegoczasu.pl/"},{"@type":"ListItem","position":2,"name":"Blog"}]}]}</script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.paniswojegoczasu.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script id="jquery-core-js" src="https://www.paniswojegoczasu.pl/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript"></script><script id="jquery-migrate-js" src="https://www.paniswojegoczasu.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script><script id="ugb-block-frontend-js-v2-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/www.paniswojegoczasu.pl\/wp-json\/"};
+/* ]]> */
+</script><script id="ugb-block-frontend-js-v2-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.0.6" type="text/javascript"></script><script id="jquery.fitvids-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08" type="text/javascript"></script><script id="fvp-frontend-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"https:\/\/www.paniswojegoczasu.pl\/wp-admin\/admin-ajax.php","nonce":"7a37a60106","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script><script id="fvp-frontend-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3" type="text/javascript"></script><script id="popupally-pro-check-source-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-1":"","popupally-cookie-2":"","popupally-cookie-3":"","popupally-cookie-4":""}};
+/* ]]> */
+</script><script id="popupally-pro-check-source-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/popupally-pro/resource/frontend/check-source.min.js?ver=2.1.6" type="text/javascript"></script><script id="wpfront-notification-bar-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.min.js?ver=3.0.0.112112" type="text/javascript"></script><script id="mobile-detect-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/aurora-heatmap/js/mobile-detect.min.js?ver=1.4.4" type="text/javascript"></script><script id="aurora-heatmap-reporter-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var aurora_heatmap_reporter = {"ajax_url":"https:\/\/www.paniswojegoczasu.pl\/wp-admin\/admin-ajax.php","action":"aurora_heatmap","interval":"10","stacks":"10","reports":"click_pc,click_mobile","debug":"0","ajax_delay_time":"3000"};
+/* ]]> */
+</script><script id="aurora-heatmap-reporter-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/aurora-heatmap/js/reporter.js?ver=1.5.3" type="text/javascript"></script><script id="icwp-wpsf-shield-notbot-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var shield_vars_notbotjs = {"ajax":{"not_bot":"action=icwp-wpsf&exec=not_bot&exec_nonce=34488bf7c7&mod_slug=icwp-wpsf-ips"},"hrefs":{"ajax":"https:\/\/www.paniswojegoczasu.pl\/wp-admin\/admin-ajax.php"},"flags":{"run":true}};
+/* ]]> */
+</script><script id="icwp-wpsf-shield-notbot-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/wp-simple-firewall/resources/js/shield/notbot.js?ver=13.0.1&amp;mtime=1637029381" type="text/javascript"></script><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTT3QWS');</script><script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '938977062799617');
+  fbq('track', 'PageView');
+</script><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.6&appId=780884452031374";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><script type="text/javascript">
+window.cfields = [];
+window._show_thank_you = function(id, message, trackcmp_url) {
+var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
+form.querySelector('._form-content').style.display = 'none';
+thank_you.innerHTML = message;
+thank_you.style.display = 'block';
+if (typeof(trackcmp_url) != 'undefined' && trackcmp_url) {
+// Site tracking URL to use after inline form submission.
+_load_script(trackcmp_url);
+}
+if (typeof window._form_callback !== 'undefined') window._form_callback(id);
+};
+window._show_error = function(id, message, html) {
+var form = document.getElementById('_form_' + id + '_'), err = document.createElement('div'), button = form.querySelector('button'), old_error = form.querySelector('._form_error');
+if (old_error) old_error.parentNode.removeChild(old_error);
+err.innerHTML = message;
+err.className = '_error-inner _form_error _no_arrow';
+var wrapper = document.createElement('div');
+wrapper.className = '_form-inner';
+wrapper.appendChild(err);
+button.parentNode.insertBefore(wrapper, button);
+if (html) {
+var div = document.createElement('div');
+div.className = '_error-html';
+div.innerHTML = html;
+err.appendChild(div);
+}
+};
+window._load_script = function(url, callback) {
+var head = document.querySelector('head'), script = document.createElement('script'), r = false;
+script.type = 'text/javascript';
+script.charset = 'utf-8';
+script.src = url;
+if (callback) {
+script.onload = script.onreadystatechange = function() {
+if (!r && (!this.readyState || this.readyState == 'complete')) {
+r = true;
+callback();
+}
+};
+}
+head.appendChild(script);
+};
+(function() {
+if (window.location.search.search("excludeform") !== -1) return false;
+var getCookie = function(name) {
+var match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
+return match ? match[2] : null;
+}
+var setCookie = function(name, value) {
+var now = new Date();
+var time = now.getTime();
+var expireTime = time + 1000 * 60 * 60 * 24 * 365;
+now.setTime(expireTime);
+document.cookie = name + '=' + value + '; expires=' + now + ';path=/';
+}
+var addEvent = function(element, event, func) {
+if (element.addEventListener) {
+element.addEventListener(event, func);
+} else {
+var oldFunc = element['on' + event];
+element['on' + event] = function() {
+oldFunc.apply(this, arguments);
+func.apply(this, arguments);
+};
+}
+}
+var _removed = false;
+var form_to_submit = document.getElementById('_form_1_');
+var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
+
+var getUrlParam = function(name) {
+var regexStr = '[\?&]' + name + '=([^&#]*)';
+var results = new RegExp(regexStr, 'i').exec(window.location.href);
+return results != undefined ? decodeURIComponent(results[1]) : false;
+};
+
+for (var i = 0; i < allInputs.length; i++) {
+var regexStr = "field\\[(\\d+)\\]";
+var results = new RegExp(regexStr).exec(allInputs[i].name);
+if (results != undefined) {
+allInputs[i].dataset.name = window.cfields[results[1]];
+} else {
+allInputs[i].dataset.name = allInputs[i].name;
+}
+var fieldVal = getUrlParam(allInputs[i].dataset.name);
+
+if (fieldVal) {
+if (allInputs[i].type == "radio" || allInputs[i].type == "checkbox") {
+if (allInputs[i].value == fieldVal) {
+allInputs[i].checked = true;
+}
+} else {
+allInputs[i].value = fieldVal;
+}
+}
+}
+
+var remove_tooltips = function() {
+for (var i = 0; i < tooltips.length; i++) {
+tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+}
+tooltips = [];
+};
+var remove_tooltip = function(elem) {
+for (var i = 0; i < tooltips.length; i++) {
+if (tooltips[i].elem === elem) {
+tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+tooltips.splice(i, 1);
+return;
+}
+}
+};
+var create_tooltip = function(elem, text) {
+var tooltip = document.createElement('div'), arrow = document.createElement('div'), inner = document.createElement('div'), new_tooltip = {};
+if (elem.type != 'radio' && elem.type != 'checkbox') {
+tooltip.className = '_error';
+arrow.className = '_error-arrow';
+inner.className = '_error-inner';
+inner.innerHTML = text;
+tooltip.appendChild(arrow);
+tooltip.appendChild(inner);
+elem.parentNode.appendChild(tooltip);
+} else {
+tooltip.className = '_error-inner _no_arrow';
+tooltip.innerHTML = text;
+elem.parentNode.insertBefore(tooltip, elem);
+new_tooltip.no_arrow = true;
+}
+new_tooltip.tip = tooltip;
+new_tooltip.elem = elem;
+tooltips.push(new_tooltip);
+return new_tooltip;
+};
+var resize_tooltip = function(tooltip) {
+var rect = tooltip.elem.getBoundingClientRect();
+var doc = document.documentElement, scrollPosition = rect.top - ((window.pageYOffset || doc.scrollTop) - (doc.clientTop || 0));
+if (scrollPosition < 40) {
+tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _below';
+} else {
+tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _above';
+}
+};
+var resize_tooltips = function() {
+if (_removed) return;
+for (var i = 0; i < tooltips.length; i++) {
+if (!tooltips[i].no_arrow) resize_tooltip(tooltips[i]);
+}
+};
+var validate_field = function(elem, remove) {
+var tooltip = null, value = elem.value, no_error = true;
+remove ? remove_tooltip(elem) : false;
+if (elem.type != 'checkbox') elem.className = elem.className.replace(/ ?_has_error ?/g, '');
+if (elem.getAttribute('required') !== null) {
+if (elem.type == 'radio' || (elem.type == 'checkbox' && /any/.test(elem.className))) {
+var elems = form_to_submit.elements[elem.name];
+no_error = false;
+for (var i = 0; i < elems.length; i++) {
+if (elems[i].checked) no_error = true;
+}
+if (!no_error) {
+tooltip = create_tooltip(elem, "Wybierz opcję.");
+}
+} else if (elem.type =='checkbox') {
+var elems = form_to_submit.elements[elem.name], found = false, err = [];
+no_error = true;
+for (var i = 0; i < elems.length; i++) {
+if (elems[i].getAttribute('required') === null) continue;
+if (!found && elems[i] !== elem) return true;
+found = true;
+elems[i].className = elems[i].className.replace(/ ?_has_error ?/g, '');
+if (!elems[i].checked) {
+no_error = false;
+elems[i].className = elems[i].className + ' _has_error';
+err.push("Checking %s is required".replace("%s", elems[i].value));
+}
+}
+if (!no_error) {
+tooltip = create_tooltip(elem, err.join('<br/>'));
+}
+} else if (elem.tagName == 'SELECT') {
+var selected = true;
+if (elem.multiple) {
+selected = false;
+for (var i = 0; i < elem.options.length; i++) {
+if (elem.options[i].selected) {
+selected = true;
+break;
+}
+}
+} else {
+for (var i = 0; i < elem.options.length; i++) {
+if (elem.options[i].selected && !elem.options[i].value) {
+selected = false;
+}
+}
+}
+if (!selected) {
+no_error = false;
+tooltip = create_tooltip(elem, "Wybierz opcję.");
+}
+} else if (value === undefined || value === null || value === '') {
+elem.className = elem.className + ' _has_error';
+no_error = false;
+tooltip = create_tooltip(elem, "To pole jest wymagane.");
+}
+}
+if (no_error && elem.name == 'email') {
+if (!value.match(/^[\+_a-z0-9-'&=]+(\.[\+_a-z0-9-']+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,})$/i)) {
+elem.className = elem.className + ' _has_error';
+no_error = false;
+tooltip = create_tooltip(elem, "Podaj poprawny e-mail.");
+}
+}
+if (no_error && /date_field/.test(elem.className)) {
+if (!value.match(/^\d\d\d\d-\d\d-\d\d$/)) {
+elem.className = elem.className + ' _has_error';
+no_error = false;
+tooltip = create_tooltip(elem, "Podaj poprawną datę.");
+}
+}
+tooltip ? resize_tooltip(tooltip) : false;
+return no_error;
+};
+var needs_validate = function(el) {
+return el.name == 'email' || el.getAttribute('required') !== null;
+};
+var validate_form = function(e) {
+var err = form_to_submit.querySelector('._form_error'), no_error = true;
+if (!submitted) {
+submitted = true;
+for (var i = 0, len = allInputs.length; i < len; i++) {
+var input = allInputs[i];
+if (needs_validate(input)) {
+if (input.type == 'text') {
+addEvent(input, 'input', function() {
+validate_field(this, true);
+});
+} else if (input.type == 'radio' || input.type == 'checkbox') {
+(function(el) {
+var radios = form_to_submit.elements[el.name];
+for (var i = 0; i < radios.length; i++) {
+addEvent(radios[i], 'click', function() {
+validate_field(el, true);
+});
+}
+})(input);
+} else if (input.tagName == 'SELECT') {
+addEvent(input, 'change', function() {
+validate_field(input, true);
+});
+}
+}
+}
+}
+remove_tooltips();
+for (var i = 0, len = allInputs.length; i < len; i++) {
+var elem = allInputs[i];
+if (needs_validate(elem)) {
+validate_field(elem) ? true : no_error = false;
+}
+}
+if (!no_error && e) {
+e.preventDefault();
+}
+resize_tooltips();
+return no_error;
+};
+addEvent(window, 'resize', resize_tooltips);
+addEvent(window, 'scroll', resize_tooltips);
+window._old_serialize = null;
+if (typeof serialize !== 'undefined') window._old_serialize = window.serialize;
+_load_script("//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js", function() {
+window._form_serialize = window.serialize;
+if (window._old_serialize) window.serialize = window._old_serialize;
+});
+var form_submit = function(e) {
+e.preventDefault();
+if (validate_form()) {
+// use this trick to get the submit button & disable it using plain javascript
+document.querySelector('[id^="_form"][id$="_submit"]').disabled = true;
+var serialized = _form_serialize(document.getElementById('_form_1_'));
+var err = form_to_submit.querySelector('._form_error');
+err ? err.parentNode.removeChild(err) : false;
+_load_script('https://paniswojegoczasu.activehosted.com/proc.php?' + serialized + '&jsonp=true');
+}
+return false;
+};
+addEvent(form_to_submit, 'submit', form_submit);
+})();
+
+</script><script src="https://www.paniswojegoczasu.pl/wp-content/themes/psc/assets/js/cookies.js" type="text/javascript"></script><script type="text/javascript">
+  var trackcmp_email = '';
+  var trackcmp = document.createElement("script");
+  trackcmp.async = true;
+  trackcmp.type = 'text/javascript';
+  trackcmp.src = '//trackcmp.net/visit?actid=89247714&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+  var trackcmp_s = document.getElementsByTagName("script");
+  if (trackcmp_s.length) {
+    trackcmp_s[0].parentNode.appendChild(trackcmp);
+  } else {
+    var trackcmp_h = document.getElementsByTagName("head");
+    trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+  }
+</script><script type="text/javascript">
+  $(document).ready(function() {
+      $('body').typographer({
+          modules: ['orphan']
+      });
+  });
+</script><script type="text/javascript">
+                function __load_wpfront_notification_bar() {
+                    if (typeof wpfront_notification_bar === "function") {
+                        wpfront_notification_bar({"position":2,"height":0,"fixed_position":"on","animate_delay":0,"close_button":true,"button_action_close_bar":false,"auto_close_after":0,"display_after":0,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":false,"keep_closed_for":0,"position_offset":0,"display_scroll":false,"display_scroll_offset":100,"keep_closed_cookie":"wpfront-notification-bar-keep-closed","log":false,"id_suffix":"","log_prefix":"[WPFront Notification Bar]","theme_sticky_selector":""});
+                    } else {
+                                    setTimeout(__load_wpfront_notification_bar, 100);
+                    }
+                }
+                __load_wpfront_notification_bar();
+            </script><script>var hide_fttb = ''</script><script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+var sbiajaxurl = "https://www.paniswojegoczasu.pl/wp-admin/admin-ajax.php";
+</script><script id="fttb-script-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/float-to-top-button/js/jquery.scrollUp.min.js?ver=2.3.6" type="text/javascript"></script><script id="fttb-active-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var fttb = {"topdistance":"300","topspeed":"300","animation":"fade","animationinspeed":"200","animationoutspeed":"200","scrolltext":"Top of Page","imgurl":"https:\/\/www.paniswojegoczasu.pl\/wp-content\/plugins\/float-to-top-button\/images\/","arrow_img":"arrow001.png","arrow_img_url":"","position":"lowerright","spacing_horizontal":"20px","spacing_vertical":"20px","opacity_out":"75","opacity_over":"99","zindex":"2147483647"};
+/* ]]> */
+</script><script id="fttb-active-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/float-to-top-button/js/float-to-top-button.min.js?ver=2.3.6" type="text/javascript"></script><script id="regenerator-runtime-js" src="https://www.paniswojegoczasu.pl/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" type="text/javascript"></script><script id="wp-polyfill-js" src="https://www.paniswojegoczasu.pl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" type="text/javascript"></script><script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.paniswojegoczasu.pl\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script><script id="contact-form-7-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2" type="text/javascript"></script><script id="disqus_count-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"paniswojegoczasu"};
+/* ]]> */
+</script><script id="disqus_count-js" src="https://www.paniswojegoczasu.pl/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.22" type="text/javascript"></script><script id="wp-embed-js" src="https://www.paniswojegoczasu.pl/wp-includes/js/wp-embed.min.js?ver=5.8.2" type="text/javascript"></script>
