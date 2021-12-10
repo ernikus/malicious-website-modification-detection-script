@@ -40,14 +40,14 @@
  9. Jeśli wszystko jest równe - zapisanie wszystkich kodów do folderu
  10. <Program się zapętla>
 
-### Functions
+### ✅ Functions
 
- - [ ] Odczyt Danych		***E***
- - [ ] Pobranie HTML		***E***
- - [ ] Pobranie JS			***E***
+ - [x] Odczyt Danych		***E***
+ - [x] Pobranie HTML		***E***
+ - [x] Pobranie JS			***E***
  - [x] Hashowanie JS		***A***
  - [x] Porównanie JS		***A***
- - [ ] Porównanie HTML		***E***
+ - [x] Porównanie HTML		***E***
  - [x] Info do Admina		***A***
  - [x] Zapis Danych		***A***
 

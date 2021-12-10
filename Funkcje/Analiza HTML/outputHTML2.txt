@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
 <title>HTML Save : Host HTML WebPage online</title><meta name='description' content='Host single HTML WebPage online for free. Static hosting made simple and fast. Paste HTML code and Submit to save to host online.'> <script src="/cdn-cgi/apps/head/zF6E4Dz26kR4w5wbzRAWpQ_F_CU.js"></script><script data-ad-client="ca-pub-8744459230456906" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="document.getElementById('61a5010b0306b').click();"></script>
 <link rel="stylesheet" type="text/css" href="https://htmlsave.com/scriptcss/style.css">
