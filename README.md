@@ -45,11 +45,11 @@
  - [ ] Odczyt Danych		***E***
  - [ ] Pobranie HTML		***E***
  - [ ] Pobranie JS			***E***
- - [ ] Hashowanie JS		***A***
- - [ ] Porównanie JS		***A***
+ - [x] Hashowanie JS		***A***
+ - [x] Porównanie JS		***A***
  - [ ] Porównanie HTML		***E***
- - [ ] Info do Admina		***A***
- - [ ] Zapis Danych		***A***
+ - [x] Info do Admina		***A***
+ - [x] Zapis Danych		***A***
 
 ## Conversation Script (org.: "Co Trzeba Tak Wstępnie")
 

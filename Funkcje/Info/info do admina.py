@@ -1,66 +1,66 @@
-#dać zmienną globalną która po porównaniu kodów html
-#zmieni swoją wartość co spowoduje wysłanie że ponownie wywołana funkcja
-#zamiast dopisać tekst wyświetli go/wyśle go jako mail do admina
+#zmienna globalna 'tekst' przechowuje jako tabela wszystkie informacje jakie mają być przekazane
+#zmienna globalna 'mail' aby wiedzieć na jaki email wysłać mail
+#zmienna globalna 'password' hasło do poczty email z której email będzie wysłany (w ten sposób możnaby też samemu komuś wysyłać maile)
 
-#sprawdzić czy po wyjściu z funkcji tekst zapisany w zmiennej jest tam dalej
-#czy po dopisaniu tekstu zostanie wyświetlony tylko ten nowy?
-#jeśli nowy, to ustawić jako drugą zmienną globalną tekst do którego
-#będzie zapisywany tekst do wyświetlenia
+#email wysyła email do użytkownika, jednak zanim to to chcąc użyć skrzynke na google trzeba włączyć dostęp do mniej
+#bezpiecznych aplikacji
 
-#Można zrobić że jeśli wgl nie będzie zmian czyli tek będzie pusty to wyświetlić
-#tekst "brak zmian"
+#info pobiera dane do wyświetlenia na ekranie i je pokazuje. Po za tym dodaje też te elementy do zmiennej 'tekst'
+#przez co można wywołać na końcu już tylko funkcje email
 
-#a na początku skryptu obie zmienne będą zerowane
+#na początku skryptu należy wyzerować zmienną tekst
+
 import smtplib, ssl
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-def mail(wiadomosc):
-    msg = MIMEMultipart()
-    msg['From'] = 'mail'
-    msg['To'] = 'mail'
-    msg['Subject'] = 'simple email in python'
-    message = "Witam!\n Na twojej stronie internetowej zostały znalezione poniższe zmiany:\
-    \n" + wiadomosc + "W razie wątpliwości zaleca się sprawdzenie podanych elementów."
-    msg.attach(MIMEText(message))
+def email():
+    global tekst
+    global mail
+    global password
+    
+    if(len(tekst)<1):
+        print("Nie znaleziono żadnych zmian")
+    else:
+        message = ''.join(tekst)
+        msg = MIMEMultipart()
+        msg['From'] = 'Skrypt wykrywający zmiany stron www'
+        msg['To'] = mail
+        msg['Subject'] = 'Możliwość ataku na twoją strone internetową!'
+        message = "Na twojej stronie internetowej zostały znalezione poniższe zmiany:\
+        \n" + message + "\nW razie wątpliwości zaleca się sprawdzenie podanych elementów.\
+        \n\nPozdrawia team ZiT"
+        msg.attach(MIMEText(message))
 
-    mailserver = smtplib.SMTP('smtp.gmail.com',587)
-    # identify ourselves to smtp gmail client
-    mailserver.ehlo()
-    # secure our email with tls encryption
-    mailserver.starttls()
-    # re-identify ourselves as an encrypted connection
-    mailserver.ehlo()
-    mailserver.login('mail', 'hasło')
-
-    mailserver.sendmail('mail','mail',msg.as_string())
-
-    mailserver.quit()
+        mailserver = smtplib.SMTP('smtp.gmail.com',587)
+        mailserver.ehlo()
+        mailserver.starttls()
+        mailserver.ehlo()
+        mailserver.login(mail, password)
+        mailserver.sendmail(mail, mail, msg.as_string())
+        mailserver.quit()
 
 def info(tek=""):
     global tekst
-    global mail
-    if(len(tek)>1):
-        print(tek)
-        tekst.append(tek)
-        tekst.append('\n')
-    else:
-        print("Brak zmian")
+    tek=str(tek)
+    try:
+        if(len(tek)>1):
+            print(tek)
+            tekst.append(tek)
+            tekst.append('\n')
+        #else:
+            #print("Brak zmian")
+    except:
+        print("Problem z zmienną do wysłania do administratora")
+
         
-    if(mail==1):
-        if(len(tekst)<2):
-            print("Nie znaleziono żadnych zmian")
-        else:
-            tekst = tekst[0 : (len(tekst)-1)]
-            mess = ''.join(tekst)
-            mail(mess)
 
-#tekst = []  #zmienna globalna
-#mail=0      #zmienna globalna
-#info()
-#x="123"
-#info(x)
-#x="456"
-#mail=1
-#info(x)
-
+mail = ""
+password = ""
+tekst = []  #zmienna globalna
+info()
+x="123"
+info(x)
+x=456
+info(x)
+email()
