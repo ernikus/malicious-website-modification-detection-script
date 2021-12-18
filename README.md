@@ -2,6 +2,16 @@
 
 ¯ \ _(ツ) _ /¯
 
+## Requirements
+
+ - OS: **Linux**
+ - Language: **Python 3**
+ - Installed Additional Libraries for Python 3: **Helium and Beautiful Soup**
+ - Installed **Docker** and **Docker-Compose**
+ - Installed **Nginx**
+ - Installed **Firefox Browser** [installed by default in most Linux Distros]
+ - Access to the **Internet**
+ - **[For Troubleshooting]** access to **Administrator Account**
 
 ## Roadmap
 
@@ -10,22 +20,41 @@
  - [x] Brainstorm
  - [x] Control Meeting
  - [x] More Advanced Concept [with creating Roadmap]
- - [ ] Create Script
-	 - [ ] Wprowadzenie URL
-	 - [ ] Odczyt ostatnich danych
-	 - [ ] Pobranie kodów HTML i .JS
-	 - [ ] Hashowanie .JS
-	 - [ ] Porównanie .JS
-	 - [ ] Porównanie HTML (w tym dalsza analiza)
-	 - [ ] Poinformaowanie tekstowe (ew. + mailowe) adminisitratora
-	 - [ ] Zapisanie wszystkich kodów do folderu
-	 - [ ] Pętla całego skryptu
+ - [x] Create Script
+	 - [x] Wprowadzenie URL
+	 - [x] Odczyt ostatnich danych
+	 - [x] Pobranie kodów HTML i .JS
+	 - [x] Hashowanie .JS
+	 - [x] Porównanie .JS
+	 - [x] Porównanie HTML (w tym dalsza analiza)
+	 - [x] Poinformaowanie tekstowe (ew. + mailowe) adminisitratora
+	 - [x] Zapisanie wszystkich kodów do folderu
+	 - [x] Pętla całego skryptu
  - [ ] Create Test WebPage
+	 - [x] Original Page
+	 - [x] Small HTML Change Page
+	 - [x] Big HTML Change Page
+	 - [ ] Small JS Change Page
+	 - [ ] Big JS Change Page
+	 - [x] Hacker Rick Break Page
+	 - [ ] Create Quick Page Mount Scripts
+	 - [ ] Solve Images Storage Problem to reduce Size
  - [ ] Script Testing
  - [ ] Create Documentation
  - [ ] Create Report
  - [ ] Send a Report
  - [ ] Celebrate 🎉🎉🎉
+
+### ✅ Functions
+
+ - [x] Odczyt Danych		***E***
+ - [x] Pobranie HTML		***E***
+ - [x] Pobranie JS			***E***
+ - [x] Hashowanie JS		***A***
+ - [x] Porównanie JS		***A***
+ - [x] Porównanie HTML		***E***
+ - [x] Info do Admina		***A***
+ - [x] Zapis Danych		***A***
 
 ## Concept
 
@@ -40,57 +69,9 @@
  9. Jeśli wszystko jest równe - zapisanie wszystkich kodów do folderu
  10. <Program się zapętla>
 
-### ✅ Functions
-
- - [x] Odczyt Danych		***E***
- - [x] Pobranie HTML		***E***
- - [x] Pobranie JS			***E***
- - [x] Hashowanie JS		***A***
- - [x] Porównanie JS		***A***
- - [x] Porównanie HTML		***E***
- - [x] Info do Admina		***A***
- - [x] Zapis Danych		***A***
-
-## Conversation Script (org.: "Co Trzeba Tak Wstępnie")
-
-lyjnamur:
-
-> *Tak czytając te strony to tak sobie pomyślałem co do tych właśnie
-> plików wykorzystywanych przez strone a głównie .js że to raczej rzadko
-> się zmienia bo to jest do różnych funkcjonalności strony, tak więc
-> tutaj łatwo by było stwierdzić że zmiana/dodanie/usunięcie jakiegoś
-> pliku jest dość sporym niebezpieczeństwem. I tak to po prostu by się
-> przechowywało hashe tych plików, porównywało z tymi co są aktualnie na
-> stronie.*
-
-lyjnamur:
-
-> *A tak jeszcze co do np wyszukiwania jakiś zmian na stronie to np biblioteka BeatifulSoup daje możliwość wyszukiwania każdej lini kodu z
-> wyszukiwanym tagiem, co też mogłoby bardzo ułatwić szukanie jakiś
-> niebezpieczeństw czy też zmian które np raczej miejsca mieć nie
-> powinny.*
-
-ernikus:
-
-> *Ja proponuję poprzestać tylko na Pythonie właśnie z Biblioteką BeatifulSoup lub Requests. Nie rozdrabniajmy się i skupmy się na tylko
-> jednym skrypcie - zapomnijmy o JS albo czymś innym. Najlepiej jeśli
-> nasz skrypt będzie aż tak bardzo uniwersalny jak to możliwe - żeby
-> działał w miarę na wszystkich stronach internetowych a nie tylko
-> poszczególnych zrobionych w bazach pokrewnych SQLa.*
-
-ernikus:
-
-> *Musimy pamiętać też o **Stronie Testowej**, na której będziemy testować nasz skrypt!*
-
-ernikus:
-
-> *Dodatkowo do naszych bibliotek możemy opcjonalnie dołączyć PhantomJS (scrap .JS files) ale myślę że głównie sobie poradzimy z BeautifulSoup i Requests. Ogólnie koncept mamy spoko. Materiały i znajomość tego też spoko. Niepokoi jedynie ta autoryzacja - może na spotkaniu w środę coś uda się więcej dowiedzieć :)*
-
-
-
 ## Related
 
-Here are some related projects
+Here are some helpfull links from other related projects
 
 [Awesome README](https://github.com/ernikus/sus-changes-on-webpage-script/blob/main/help%20links.txt)
 
