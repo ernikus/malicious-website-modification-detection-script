@@ -10,7 +10,27 @@
 <style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
 </style>
+
+<head>
+  <meta charset="utf-8">
+  <title>Hello GPT</title>
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag
+          .defineSlot(
+              '/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+          .addService(googletag.pubads());
+      googletag.enableServices();
+    });
+  </script>
+</head>
+
 <body class="w3-light-grey">
 
 <!-- Navigation bar with social media icons -->
@@ -35,44 +55,26 @@ and is wrapped around the whole page content, except for the footer in this exam
 </header>
 
   <!-- Image header -->
-<!-- <div class="w3-display-container w3-wide" id="home"> -->
-  <header class="w3-display-container w3-wide" id="home">
-    <img class="w3-image" src="./image/jane.jpg" alt="Fashion Blog" width="1600" height="1060">
-    <img class="w3-image" src="./image/jane2.jpg" alt="Fashion Blog" width="1600" height="1060">
-    <img class="w3-image" src="./image/jane3.jpg" alt="Fashion Blog" width="1600" height="1060">
+<header class="w3-display-container w3-wide" id="home">
+  <img class="mySlides1" src="./image/jane.jpg" alt="Fashion Blog" width="100%">
+  <img class="mySlides1" src="./image/jane2.jpg" alt="Fashion Blog" width="100%">
+  <img class="mySlides1" src="./image/jane3.jpg" alt="Fashion Blog" width="100%">
 
-    <div class="w3-display-left w3-padding-large">
-      <h1 class="w3-text-white">Jane's</h1>
-      <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
-      <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
-    </div>
+  <div class="w3-display-left w3-padding-large">
+    <h1 class="w3-text-white">Jane's</h1>
+    <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
+    <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
+  </div>
 
-    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-    <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-  </header>
-<!-- </div> -->
+  <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+    <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">&#10094;</div>
+    <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">&#10095;</div>
 
-
-<script>
-  var slideIndex = 1;
-  showDivs(slideIndex);
-
-  function plusDivs(n) {
-    showDivs(slideIndex += n);
-  }
-
-  function showDivs(n) {
-    var i;
-    var x = document.getElementsByClassName("w3-image");
-    if (n > x.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = x.length}
-    for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";  
-    }
-    x[slideIndex-1].style.display = "block";  
-  }
-</script>
-  
+    <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+    <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
+    <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
+  </div>
+</header>
 
   <!-- Grid -->
   <div class="w3-row w3-padding w3-border">
@@ -80,7 +82,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     <!-- Blog entries -->
     <div class="w3-col l8 s12">
     
-      <!-- Blog entry -->
+      <!-- Blog entry --> 
       <div class="w3-container w3-white w3-margin w3-padding-large">
         <div class="w3-center">
           <h3>TITLE HEADING</h3>
@@ -88,7 +90,20 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
 
         <div class="w3-justify">
-          <img src="./image/girl_hat.jpg" alt="Girl Hat" style="width:100%" class="w3-padding-16">
+          <div class="w3-display-container">
+
+            <img class="mySlides2" src="./image/girl_hat.jpg" alt="Girl Hat" style="width:100%">
+            <img class="mySlides2" src="./image/girl_hat2.jpg" alt="Girl Hat" style="width:100%">
+
+            <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+              <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">&#10094;</div>
+              <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">&#10095;</div>
+          
+              <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+              <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
+            </div>
+          </div>
+
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
@@ -203,6 +218,39 @@ and is wrapped around the whole page content, except for the footer in this exam
     <!-- END BLOG ENTRIES -->
     </div>
 
+    <script>
+      var slideIndex = [1,1];
+      var slideId = ["mySlides1", "mySlides2"]
+      var dotsId = ["myDots1", "myDots2"]
+
+      showDivs(1, 0);
+      showDivs(1, 1);
+      
+      function plusDivs(n, no) {
+        showDivs(slideIndex[no] += n, no);
+      }
+
+      function currentDiv(n, no) {
+        showDivs(slideIndex[no] = n, no);
+      }
+      
+      function showDivs(n, no) {
+        var i;
+        var x = document.getElementsByClassName(slideId[no]);
+        var dots = document.getElementsByClassName(dotsId[no]);
+        if (n > x.length) {slideIndex[no] = 1}
+        if (n < 1) {slideIndex[no] = x.length}
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";  
+        }
+        for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" w3-white", "");
+        }
+        x[slideIndex[no]-1].style.display = "block";  
+        dots[slideIndex[no]-1].className += " w3-white";
+      }
+    </script>
+
     <!-- About/Information menu -->
     <div class="w3-col l4">
       <!-- About Card -->
@@ -254,9 +302,13 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-container w3-padding w3-black">
           <h4>Advertise</h4>
         </div>
-        <div class="w3-container w3-white">
-          <div class="w3-container w3-display-container w3-light-grey w3-section" style="height:200px">
-            <span class="w3-display-middle">Your AD Here</span>
+        <div class="w3-center w3-white">
+          <div id="banner-ad" class="w3-center" style="width: 100%">
+            <script>
+              googletag.cmd.push(function() {
+                googletag.display('banner-ad');
+              });
+            </script>
           </div>
         </div>
       </div>
@@ -368,6 +420,98 @@ function likeFunction(x) {
   x.style.fontWeight = "bold";
   x.innerHTML = "✓ Liked";
 }
+</script>
+
+
+<!-- Current Time and Date -->
+<p>Current Time: <span id="datetime"></span></p>
+
+<script>
+  var dt = new Date();
+  document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
+
+
+<!-- Current GeoLocation (if Location enabled) -->
+<p>Current Location: <span id="geoloc"></span></p>
+
+<script>
+  var x = document.getElementById("geoloc");
+
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition, showError);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+
+  function showPosition(position) {
+    x.innerHTML = "Latitude: " + position.coords.latitude + 
+    "<br>Longitude: " + position.coords.longitude;
+  }
+
+  function showError(error) {
+    switch(error.code) {
+      case error.PERMISSION_DENIED:
+        x.innerHTML = "User denied the request for Geolocation."
+        break;
+      case error.POSITION_UNAVAILABLE:
+        x.innerHTML = "Location information is unavailable."
+        break;
+      case error.TIMEOUT:
+        x.innerHTML = "The request to get user location timed out."
+        break;
+      case error.UNKNOWN_ERROR:
+        x.innerHTML = "An unknown error occurred."
+        break;
+    }
+  }
+</script>
+
+
+<!-- The Browser Platform -->
+<p id="OSInfo"></p>
+<script>
+  document.getElementById("OSInfo").innerHTML = 
+  "navigator.platform: " + navigator.platform;
+</script>
+
+<!-- The Browser Language -->
+<p id="LangInfo"></p>
+<script>
+  document.getElementById("LangInfo").innerHTML =
+  "navigator.language: " + navigator.language;
+</script>
+
+<!-- Is Java Enabled? -->
+<p id="JavaInfo"></p>
+<script>
+  document.getElementById("JavaInfo").innerHTML =
+  "javaEnabled: " + navigator.javaEnabled();
+</script>
+
+<!-- Browser Cookies -->
+<p id="CookieInfo"></p>
+<script>
+  document.getElementById("CookieInfo").innerHTML =
+  "navigator.cookieEnabled: " + navigator.cookieEnabled;
+</script>
+
+<!-- Secret Prompt Box -->
+<button onclick="myFunction()">Secret Button</button>
+<p id="secretdata"></p>
+
+<script>
+  function myFunction() {
+    let text;
+    let person = prompt("Please enter your name:", "Jane");
+    if (person == null || person == "") {
+      text = "User cancelled the prompt.";
+    } else {
+      text = "Hello " + person + "!\nYou found the Secret!\n";
+      alert("Here is the secret phrase!");
+    }
+    document.getElementById("secretdata").innerHTML = text;
+  }
 </script>
 
 </body>
