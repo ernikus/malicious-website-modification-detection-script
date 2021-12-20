@@ -40,7 +40,7 @@
  9. Jeśli wszystko jest równe - zapisanie wszystkich kodów do folderu
  10. <Program się zapętla>
 
-##Requirements
+## Requirements
 Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji"
 
 ### ✅ Functions
