@@ -82,6 +82,53 @@ and is wrapped around the whole page content, except for the footer in this exam
     <!-- Blog entries -->
     <div class="w3-col l8 s12">
     
+      <!-- Blog entry -->
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>TITLE HEADING</h3>
+          <h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+        </div>
+
+        <div class="w3-justify">
+          <div class="w3-display-container">
+
+            <img class="mySlides3" src="./image/skyrim-1.jpg" alt="Skyrim" style="width:100%">
+            <img class="mySlides3" src="./image/skyrim-2.jpg" alt="Skyrim" style="width:100%">
+            <img class="mySlides3" src="./image/skyrim-3.jpg" alt="Skyrim" style="width:100%">
+
+            <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+              <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 2)">&#10094;</div>
+              <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 2)">&#10095;</div>
+          
+              <span class="w3-badge myDots3 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 2)"></span>
+              <span class="w3-badge myDots3 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 2)"></span>
+              <span class="w3-badge myDots3 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 2)"></span>
+            </div>
+          </div>
+
+          <p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+            Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+            Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+          <p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+          <p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+            But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+          <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+          <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+          <p class="w3-clear"></p>
+          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+            <hr>
+              <div class="w3-col l2 m3">
+                <img src="./image/avatar_smoke.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+                <p>Let me guess someone stole your sweetroll?</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+
       <!-- Blog entry --> 
       <div class="w3-container w3-white w3-margin w3-padding-large">
         <div class="w3-center">
@@ -110,16 +157,6 @@ and is wrapped around the whole page content, except for the footer in this exam
           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo1')" id="myBtn"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
           <p class="w3-clear"></p>
-          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
-            <hr>
-              <div class="w3-col l2 m3">
-                <img src="./image/avatar_smoke.jpg" style="width:90px;">
-              </div>
-              <div class="w3-col l10 m9">
-                <h4>George <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
-                <p>Great blog post! Following</p>
-              </div>
-          </div>
         </div>
       </div>
       <hr>
@@ -219,12 +256,13 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 
     <script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+      var slideIndex = [1,1,1];
+      var slideId = ["mySlides1", "mySlides2", "mySlides3"]
+      var dotsId = ["myDots1", "myDots2", "myDots3"]
 
       showDivs(1, 0);
       showDivs(1, 1);
+      showDivs(1, 2);
       
       function plusDivs(n, no) {
         showDivs(slideIndex[no] += n, no);
@@ -302,13 +340,15 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-container w3-padding w3-black">
           <h4>Advertise</h4>
         </div>
-        <div class="w3-center w3-white">
-          <div id="banner-ad" class="w3-center" style="width: 100%">
-            <script>
-              googletag.cmd.push(function() {
-                googletag.display('banner-ad');
-              });
-            </script>
+        <div class="w3-container w3-center w3-white">
+          <div id="banner-ad" class="w3-container w3-display-container w3-light-grey w3-section w3-center" style="width: 100%; height: 100%">
+            <span class="w3-display-middle">
+              <script>
+                googletag.cmd.push(function() {
+                  googletag.display('banner-ad');
+                });
+              </script>
+            </span>
           </div>
         </div>
       </div>
