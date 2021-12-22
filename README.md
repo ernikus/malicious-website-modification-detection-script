@@ -7,11 +7,11 @@
  - OS: **Linux**
  - Language: **Python 3**
  - Installed Additional Libraries for Python 3: **Helium and Beautiful Soup**
- - Installed **Docker** and **Docker-Compose**
+ - Installed **Docker**
  - Installed **Nginx**
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
  - Access to the **Internet**
- - **[For Troubleshooting]** access to **Administrator Account**
+ - Access to **Administrator Account** for Setting Docker Containers and Right Privileges
 
 ## Roadmap
 
@@ -31,14 +31,13 @@
 	 - [x] Zapisanie wszystkich kodów do folderu
 	 - [x] Pętla całego skryptu
  - [ ] Create Test WebPage
-	 - [x] Original Page
+	 - [x] Original Page (with more JS)
 	 - [x] Small HTML Change Page
 	 - [x] Big HTML Change Page
 	 - [ ] Small JS Change Page
 	 - [ ] Big JS Change Page
 	 - [x] Hacker Rick Break Page
-	 - [ ] Create Quick Page Mount Scripts
-	 - [ ] Solve Images Storage Problem to reduce Size
+	 - [x] Create Quick Page Mount Scripts
  - [ ] Script Testing
  - [ ] Create Documentation
  - [ ] Create Report
