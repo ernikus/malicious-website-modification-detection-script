@@ -1,0 +1,15 @@
+path finder - no wyszukuje ścieżke do swojego pliku ale tak to nie do końca wiem co i jak. Choć pewnie powinien dawać ścieżke do najnowszych plików logów
+
+js scrap - tutaj pobiera z źródła strony .js po czym w aktualnej formie zapisuje do pliku outputJS.txt
+sprawdź na linuksie
+
+fusion scrap - scrapuje cały kod strony i do dwóch różnych plików zapisuje kod i .js 
+w skrócie połączenie htmlscrap i jsscrap?
+sprawdź czy działa
+
+htmlscrap - pobranie kodu html strony i zapis do pliku
+
+htmlcheck - pobranie z zapisanych plików kodów html do sprawdzenia. jako wynik wypluwa do wiersza linie które są różne
+
+
+

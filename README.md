@@ -44,6 +44,7 @@
  - [ ] Send a Report
  - [ ] Celebrate 🎉🎉🎉
 
+
 ### ✅ Functions
 
  - [x] Odczyt Danych		***E***

@@ -11,3 +11,5 @@ def hashowanie(tekst):
 
 #funkcja przyjmuje jako argument dowolny element.
 #Zwraca natomiast wynik hashowania w postaci szesnastkowej
+
+
