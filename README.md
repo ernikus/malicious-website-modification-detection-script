@@ -12,8 +12,9 @@
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
  - Access to the **Internet** - Download Nginx Image for Docker
  - Access to **Administrator Account** for Setting Docker Containers and Right Privileges
-## Requirements
-Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji"
+
+! Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji" !
+
 
 ## Roadmap
 
@@ -32,12 +33,12 @@ Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznyc
 	 - [x] Poinformaowanie tekstowe (ew. + mailowe) adminisitratora
 	 - [x] Zapisanie wszystkich kodów do folderu
 	 - [x] Pętla całego skryptu
- - [ ] Create Test WebPage
+ - [x] Create Test WebPage
 	 - [x] Original Page (with more JS)
 	 - [x] Small HTML Change Page
 	 - [x] Big HTML Change Page
-	 - [ ] Small JS Change Page
-	 - [ ] Big JS Change Page
+	 - [x] Small JS Change Page
+	 - [x] Big JS Change Page
 	 - [x] Hacker Rick Break Page
 	 - [x] Create Quick Page Mount Scripts
  - [ ] Script Testing
@@ -45,7 +46,6 @@ Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznyc
  - [ ] Create Report
  - [ ] Send a Report
  - [ ] Celebrate 🎉🎉🎉
-
 
 ### ✅ Functions
 
