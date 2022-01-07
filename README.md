@@ -12,6 +12,8 @@
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
  - Access to the **Internet** - Download Nginx Image for Docker
  - Access to **Administrator Account** for Setting Docker Containers and Right Privileges
+## Requirements
+Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji"
 
 ## Roadmap
 
