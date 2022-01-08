@@ -78,6 +78,12 @@ def checkHTML(f1, f2):
 
                         line_no += 1
                         continue;
+                    elif (('"datetime"' in file_1_line) & ('"datetime"' in file_2_line)):
+                        file_1_line = file_1.readline()
+                        file_2_line = file_2.readline()
+
+                        line_no += 1
+                        continue;
                     else:
                         file_3.write("@-"); file_3.write("Line-%d" % line_no); file_3.write(file_1_line); file_3.write("\n");
 
