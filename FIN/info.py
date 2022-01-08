@@ -15,7 +15,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import os
 
-def email(plik, plik1, mail="", password=""):
+def email(plik, plik1, mail, password):
 
     #print(os.path.isfile(plik1))
 
@@ -59,15 +59,15 @@ def info(plik):
     plik.close()
     tek = []
     for line in inf:
-        tek.append(line)
-    try:
-        for line in tek:
-            print(line)
-        #else:
-            #print("Brak zmian")
-    except:
-        print("Problem z zmienną do wysłania do administratora")
-
+        {tek.append(line)}
+    if not tek :
+        print("Brak zmian")
+    else:
+        try:
+            for line in tek:
+                print(line)
+        except:
+            print("Problem z zmienną do wysłania do administratora")
 
 #mail = ""
 #password = ""

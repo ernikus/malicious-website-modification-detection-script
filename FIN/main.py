@@ -14,23 +14,22 @@ from porownanie_hashy import porownanie
 from zapis_danych import zapis
 from info import email, info
 
-print(directory())
-url = input("Podaj pelny url strony: ") #
-#url = "https://www.paniswojegoczasu.pl/blog/"
+#url = input("Podaj pelny url strony: ") #
+url = "https://www.paniswojegoczasu.pl/blog/"
 
 #podaj email na ktorego beda szly powiadomienia
-mail = input("Podaj swoj mail: ")
-#mail = ''
+#mail = input("Podaj swoj mail: ")
+mail = ''
 
 #podaj haslo do maila
-password = input("Podaj haslo do maila: ")
-#password = ''
+#password = input("Podaj haslo do maila: ")
+password = ''
 
 print("Co jaki czas chcesz aby sprawdzac zmiany na stronie?\n")
 #d = int(input("Podaj ilosc dni: "))
 d=0
 #h = int(input("Podaj ilosc godzin(jesli podasz wiecej niz 24 zostana one dodane do ilosci dni): "))
-h=0.01
+h=0.0042
 #if(h<1):
 #    exit()
 #elif(d<0):
@@ -75,7 +74,8 @@ while(True):
 
         info('diffHTML.txt')
         info('diffJS.txt')
-        email('diffHTML.txt','diffJS.txt', mail, password)
+        if (mail!=''):
+            email('diffHTML.txt','diffJS.txt', mail, password)
 
         os.remove('outputHTML.txt')
         os.remove('outputJS.txt')

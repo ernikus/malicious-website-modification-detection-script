@@ -66,7 +66,20 @@ def checkHTML(f1, f2):
 
                 else:
 #                    print("@-", "Line-%d" % line_no, file_1_line)
-                    file_3.write("@-"); file_3.write("Line-%d" % line_no); file_3.write(file_1_line); file_3.write("\n");
+                    if (("google" in file_1_line) & ("google" in file_2_line)):
+                        file_1_line = file_1.readline()
+                        file_2_line = file_2.readline()
+
+                        line_no += 1
+                        continue;
+                    elif (('"datatime"' in file_1_line) & ('"datatime"' in file_2_line)):
+                        file_1_line = file_1.readline()
+                        file_2_line = file_2.readline()
+
+                        line_no += 1
+                        continue;
+                    else:
+                        file_3.write("@-"); file_3.write("Line-%d" % line_no); file_3.write(file_1_line); file_3.write("\n");
 
                 # otherwise output the line on file2 and use # sign
                 if file_2_line == '':
