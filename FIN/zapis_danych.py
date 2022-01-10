@@ -26,7 +26,8 @@ def zapis(a, typ, h=24):
     if(h==24):
         now = now.strftime("%d_%m_%Y")#_%H:%M:%S)
     else:
-        now = now.strftime("%d_%m_%Y_%H")#%M:%S)
+        #zmienić na odpowiedni w zależności od tego jak często będzie pobierany kod strony
+        now = now.strftime("%d_%m_%Y_%H_%M_%S")
     #print(now)
 
     newdir = path + 'logs/' + now;
