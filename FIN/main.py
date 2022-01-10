@@ -62,6 +62,7 @@ time.sleep(tim);
 while(True):
     log = directory() #aktualna pozycja najnowszego pliku w /home/kali/Desktop/projekt/logs/17_12_2021/
     pliki = [] #outputHTML.txt, outputJS.txt
+    pliki.clear();
     pliki = FusionScrap(url) #lokalizacje plikow tymczasowych
 
     if (checkHTML(log+"HTML.txt", pliki[0]) == False): # diffHTML.txt jesli html sa rozne to sprawdzaj dalej -> sprawdz hashe

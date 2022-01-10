@@ -58,6 +58,7 @@ def info(plik):
     inf = plik.readlines()
     plik.close()
     tek = []
+    tek.clear()
     for line in inf:
         {tek.append(line)}
     if not tek :
