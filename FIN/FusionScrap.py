@@ -12,7 +12,7 @@ def FusionScrap(url):
 
     browser = start_firefox(url, headless=True)
     soup = BeautifulSoup(browser.page_source, 'html.parser')
-
+    kill_browser()
     # HTML Part ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     quotes = soup.find_all()
