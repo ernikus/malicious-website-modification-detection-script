@@ -1,0 +1,3037 @@
+<html><head><title>W3.CSS Template</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style>
+<meta charset="utf-8"/>
+<title>Hello GPT</title>
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script></head>
+<body class="w3-light-grey">
+<!-- w3-content defines a container for fixed size centered content,
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1600px">
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-48 w3-white">
+<h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1>
+<h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6>
+</header>
+<!-- Image header -->
+<header class="w3-display-container w3-wide" id="home">
+<img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/>
+<div class="w3-display-left w3-padding-large">
+<h1 class="w3-text-white">Rick</h1>
+<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+</div>
+</header>
+<!-- Grid -->
+<div class="w3-row w3-padding w3-border">
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- END BLOG ENTRIES -->
+</div>
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
+
+showDivs(1, 0);
+showDivs(1, 1);
+
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
+<!-- About/Information menu -->
+<div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div>
+<hr/>
+<!-- Posts -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div>
+<hr/>
+<!-- Advertising -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div>
+<hr/>
+<!-- Tags -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div>
+<hr/>
+<!-- Inspiration -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div>
+<hr/>
+<!-- END About/Intro Menu -->
+</div>
+<!-- END GRID -->
+</div>
+<!-- END w3-content -->
+</div>
+<!-- Subscribe Modal -->
+<div class="w3-modal w3-animate-opacity" id="subscribe">
+<div class="w3-modal-content" style="padding:32px">
+<div class="w3-container w3-white">
+<i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i>
+<h2 class="w3-wide">SUBSCRIBE</h2>
+<p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+<p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p>
+<button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button>
+</div>
+</div>
+</div>
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey" style="padding:32px">
+<a class="w3-button w3-black w3-padding-large w3-margin-bottom" href="#"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+<p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+<script>
+// Toggle between hiding and showing blog replies/comments
+document.getElementById("myBtn").click();
+function myFunction(id) {
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
+}
+
+function likeFunction(x) {
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
+}
+</script>
+<!-- Current Time and Date -->
+<p>Current Time: <span id="datetime">1/11/2022, 3:21:02 PM</span></p>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
+<!-- Current GeoLocation (if Location enabled) -->
+<p>Current Location: <span id="geoloc"></span></p>
+<script>
+var x = document.getElementById("geoloc");
+
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
+
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
+
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
+</script>
+<!-- The Browser Platform -->
+<p id="OSInfo">navigator.platform: Linux x86_64</p>
+<script>
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
+</script>
+<!-- The Browser Language -->
+<p id="LangInfo">navigator.language: en-US</p>
+<script>
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
+</script>
+<!-- Is Java Enabled? -->
+<p id="JavaInfo">javaEnabled: false</p>
+<script>
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
+</script>
+<!-- Browser Cookies -->
+<p id="CookieInfo">navigator.cookieEnabled: true</p>
+<script>
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
+</script>
+<!-- Secret Prompt Box -->
+<button onclick="myFunction()">Secret Button</button>
+<p id="secretdata"></p>
+<script>
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script>
+</body></html><head><title>W3.CSS Template</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style>
+<meta charset="utf-8"/>
+<title>Hello GPT</title>
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script></head><title>W3.CSS Template</title><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/><style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style><meta charset="utf-8"/><title>Hello GPT</title><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script><meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script><body class="w3-light-grey">
+<!-- w3-content defines a container for fixed size centered content,
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1600px">
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-48 w3-white">
+<h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1>
+<h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6>
+</header>
+<!-- Image header -->
+<header class="w3-display-container w3-wide" id="home">
+<img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/>
+<div class="w3-display-left w3-padding-large">
+<h1 class="w3-text-white">Rick</h1>
+<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+</div>
+</header>
+<!-- Grid -->
+<div class="w3-row w3-padding w3-border">
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- END BLOG ENTRIES -->
+</div>
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
+
+showDivs(1, 0);
+showDivs(1, 1);
+
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
+<!-- About/Information menu -->
+<div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div>
+<hr/>
+<!-- Posts -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div>
+<hr/>
+<!-- Advertising -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div>
+<hr/>
+<!-- Tags -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div>
+<hr/>
+<!-- Inspiration -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div>
+<hr/>
+<!-- END About/Intro Menu -->
+</div>
+<!-- END GRID -->
+</div>
+<!-- END w3-content -->
+</div>
+<!-- Subscribe Modal -->
+<div class="w3-modal w3-animate-opacity" id="subscribe">
+<div class="w3-modal-content" style="padding:32px">
+<div class="w3-container w3-white">
+<i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i>
+<h2 class="w3-wide">SUBSCRIBE</h2>
+<p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+<p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p>
+<button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button>
+</div>
+</div>
+</div>
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey" style="padding:32px">
+<a class="w3-button w3-black w3-padding-large w3-margin-bottom" href="#"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+<p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+<script>
+// Toggle between hiding and showing blog replies/comments
+document.getElementById("myBtn").click();
+function myFunction(id) {
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
+}
+
+function likeFunction(x) {
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
+}
+</script>
+<!-- Current Time and Date -->
+<p>Current Time: <span id="datetime">1/11/2022, 3:21:02 PM</span></p>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
+<!-- Current GeoLocation (if Location enabled) -->
+<p>Current Location: <span id="geoloc"></span></p>
+<script>
+var x = document.getElementById("geoloc");
+
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
+
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
+
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
+</script>
+<!-- The Browser Platform -->
+<p id="OSInfo">navigator.platform: Linux x86_64</p>
+<script>
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
+</script>
+<!-- The Browser Language -->
+<p id="LangInfo">navigator.language: en-US</p>
+<script>
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
+</script>
+<!-- Is Java Enabled? -->
+<p id="JavaInfo">javaEnabled: false</p>
+<script>
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
+</script>
+<!-- Browser Cookies -->
+<p id="CookieInfo">navigator.cookieEnabled: true</p>
+<script>
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
+</script>
+<!-- Secret Prompt Box -->
+<button onclick="myFunction()">Secret Button</button>
+<p id="secretdata"></p>
+<script>
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script>
+</body><div class="w3-content" style="max-width:1600px">
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-48 w3-white">
+<h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1>
+<h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6>
+</header>
+<!-- Image header -->
+<header class="w3-display-container w3-wide" id="home">
+<img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/>
+<div class="w3-display-left w3-padding-large">
+<h1 class="w3-text-white">Rick</h1>
+<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+</div>
+</header>
+<!-- Grid -->
+<div class="w3-row w3-padding w3-border">
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- END BLOG ENTRIES -->
+</div>
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
+
+showDivs(1, 0);
+showDivs(1, 1);
+
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
+<!-- About/Information menu -->
+<div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div>
+<hr/>
+<!-- Posts -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div>
+<hr/>
+<!-- Advertising -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div>
+<hr/>
+<!-- Tags -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div>
+<hr/>
+<!-- Inspiration -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div>
+<hr/>
+<!-- END About/Intro Menu -->
+</div>
+<!-- END GRID -->
+</div>
+<!-- END w3-content -->
+</div><header class="w3-container w3-center w3-padding-48 w3-white">
+<h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1>
+<h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6>
+</header><h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1><b>RICK ROLL-LIFE</b><h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6><span class="w3-tag">Hacker Rick</span><header class="w3-display-container w3-wide" id="home">
+<img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/>
+<div class="w3-display-left w3-padding-large">
+<h1 class="w3-text-white">Rick</h1>
+<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+</div>
+</header><img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/><div class="w3-display-left w3-padding-large">
+<h1 class="w3-text-white">Rick</h1>
+<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+</div><h1 class="w3-text-white">Rick</h1><h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1><b>HACKED THAT BLOG</b><h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button><div class="w3-row w3-padding w3-border">
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- END BLOG ENTRIES -->
+</div>
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
+
+showDivs(1, 0);
+showDivs(1, 1);
+
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
+<!-- About/Information menu -->
+<div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div>
+<hr/>
+<!-- Posts -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div>
+<hr/>
+<!-- Advertising -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div>
+<hr/>
+<!-- Tags -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div>
+<hr/>
+<!-- Inspiration -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div>
+<hr/>
+<!-- END About/Intro Menu -->
+</div>
+<!-- END GRID -->
+</div><div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- Blog entry -->
+<div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div>
+<hr/>
+<!-- END BLOG ENTRIES -->
+</div><div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div>
+</div><div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5><span class="w3-opacity">May 2, 2016</span><div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div>
+</div><img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/><p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button><b>Replies  </b><span class="w3-tag w3-white">420</span><p class="w3-clear"></p><div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
+<hr/>
+<div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div>
+<div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div>
+</div><hr/><div class="w3-col l2 m3">
+<img src="./image/rick-avatar.jpg" style="width:90%"/>
+</div><img src="./image/rick-avatar.jpg" style="width:90%"/><div class="w3-col l10 m9">
+<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+<p>You know the rules and so do I</p>
+</div><h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4><span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span><p>You know the rules and so do I</p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div><div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5><span class="w3-opacity">May 2, 2016</span><div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div><img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/><p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button><b>Replies  </b><span class="w3-tag w3-white">420</span><p class="w3-clear"></p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+<div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div>
+<div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div>
+</div><div class="w3-center">
+<h3>TITLE HEADING</h3>
+<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+</div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5><span class="w3-opacity">May 2, 2016</span><div class="w3-justify">
+<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+<p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p>
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+<p class="w3-clear"></p>
+</div><img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/><p>We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+And if you ask me how I'm feeling
+Don't tell me you're too blind to see
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give, never gonna give
+(Give you up)
+We've known each other for so long
+Your heart's been aching but you're too shy to say it
+Inside we both know what's been going on
+We know the game and we're gonna play it
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button><b>Replies  </b><span class="w3-tag w3-white">420</span><p class="w3-clear"></p><hr/><script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
+
+showDivs(1, 0);
+showDivs(1, 1);
+
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script><div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div>
+<hr/>
+<!-- Posts -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div>
+<hr/>
+<!-- Advertising -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div>
+<hr/>
+<!-- Tags -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div>
+<hr/>
+<!-- Inspiration -->
+<div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div>
+<hr/>
+<!-- END About/Intro Menu -->
+</div><div class="w3-white w3-margin">
+<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+<div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div>
+</div><img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/><div class="w3-container w3-black">
+<h4>RickRoll</h4>
+<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+</div><h4>RickRoll</h4><p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p><hr/><div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul>
+</div><div class="w3-container w3-padding w3-black">
+<h4>Popular Posts</h4>
+</div><h4>Popular Posts</h4><ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li>
+<li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li>
+</ul><li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Impostor</span>
+<br/>
+<span>Sed mattis nunc</span>
+</li><img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/><span class="w3-large">Impostor</span><br/><span>Sed mattis nunc</span><li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Is</span>
+<br/>
+<span>Praes tinci sed</span>
+</li><img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/><span class="w3-large">Is</span><br/><span>Praes tinci sed</span><li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Among</span>
+<br/>
+<span>Ultricies congue</span>
+</li><img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/><span class="w3-large">Among</span><br/><span>Ultricies congue</span><li class="w3-padding-16">
+<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+<span class="w3-large">Us</span>
+<br/>
+<span>Lorem ipsum dipsum</span>
+</li><img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/><span class="w3-large">Us</span><br/><span>Lorem ipsum dipsum</span><hr/><div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div>
+<div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div>
+</div><div class="w3-container w3-padding w3-black">
+<h4>Your Daily Motivation</h4>
+</div><h4>Your Daily Motivation</h4><div class="w3-container w3-white">
+<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+<script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script>
+</div><p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/><script>
+googletag.cmd.push(function() {
+googletag.display('banner-ad');
+});
+</script><hr/><div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div>
+<div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div>
+</div><div class="w3-container w3-padding w3-black">
+<h4>Tags</h4>
+</div><h4>Tags</h4><div class="w3-container w3-white">
+<p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p>
+</div><p>
+<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+</p><span class="w3-tag w3-black w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span><hr/><div class="w3-white w3-margin">
+<div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div>
+<div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div>
+</div><div class="w3-container w3-padding w3-black">
+<h4>My Tram</h4>
+</div><h4>My Tram</h4><div class="w3-row-padding w3-white">
+<div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div>
+<div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div>
+</div><div class="w3-col s6">
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+</div><p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/><p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/><div class="w3-col s6">
+<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+</div><p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/><p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/><hr/><div class="w3-modal w3-animate-opacity" id="subscribe">
+<div class="w3-modal-content" style="padding:32px">
+<div class="w3-container w3-white">
+<i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i>
+<h2 class="w3-wide">SUBSCRIBE</h2>
+<p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+<p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p>
+<button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button>
+</div>
+</div>
+</div><div class="w3-modal-content" style="padding:32px">
+<div class="w3-container w3-white">
+<i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i>
+<h2 class="w3-wide">SUBSCRIBE</h2>
+<p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+<p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p>
+<button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button>
+</div>
+</div><div class="w3-container w3-white">
+<i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i>
+<h2 class="w3-wide">SUBSCRIBE</h2>
+<p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+<p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p>
+<button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button>
+</div><i class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right" onclick="document.getElementById('subscribe').style.display='none'"></i><h2 class="w3-wide">SUBSCRIBE</h2><p>Join my mailing list to receive updates on the latest blog posts and other things.</p><p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/></p><input class="w3-input w3-border" placeholder="Enter e-mail" type="text"/><button class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'" type="button">Subscribe</button><footer class="w3-container w3-dark-grey" style="padding:32px">
+<a class="w3-button w3-black w3-padding-large w3-margin-bottom" href="#"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+<p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer><a class="w3-button w3-black w3-padding-large w3-margin-bottom" href="#"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a><i class="fa fa-arrow-up w3-margin-right"></i><p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p><a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a><script>
+// Toggle between hiding and showing blog replies/comments
+document.getElementById("myBtn").click();
+function myFunction(id) {
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
+}
+
+function likeFunction(x) {
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
+}
+</script><p>Current Time: <span id="datetime">1/11/2022, 3:21:02 PM</span></p><span id="datetime">1/11/2022, 3:21:02 PM</span><script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script><p>Current Location: <span id="geoloc"></span></p><span id="geoloc"></span><script>
+var x = document.getElementById("geoloc");
+
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
+
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
+
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
+</script><p id="OSInfo">navigator.platform: Linux x86_64</p><script>
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
+</script><p id="LangInfo">navigator.language: en-US</p><script>
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
+</script><p id="JavaInfo">javaEnabled: false</p><script>
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
+</script><p id="CookieInfo">navigator.cookieEnabled: true</p><script>
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
+</script><button onclick="myFunction()">Secret Button</button><p id="secretdata"></p><script>
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script>
