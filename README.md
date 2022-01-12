@@ -1,4 +1,4 @@
-# Malicious Website Modification detection Script
+# Malicious Website Modification Detection Script
 
 ¯ \ _(ツ) _ /¯
 
