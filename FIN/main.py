@@ -56,6 +56,12 @@ os.remove('outputHTML.txt')
 os.remove('outputJS.txt')
 os.remove('hash.txt')
 
+#sound
+duration = 0.5  # seconds
+freq = 600  # Hz
+os.system('play -nq -t alsa synth {} sine {}'.format(duration, freq))
+
+
 time.sleep(tim);
 
 #h=4
@@ -87,4 +93,7 @@ while(True):
     else:
         print("Nic sie nie zmienilo!")#info do admina na widok "brak zmian na stronie" albo zeby program byl cicho
 
+    #sound
+    os.system('play -nq -t alsa synth {} sine {}'.format(duration,freq))
+    
     time.sleep(tim);
