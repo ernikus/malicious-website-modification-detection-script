@@ -10,9 +10,10 @@ from hashowanie import hashowanie
 def FusionScrap(url):
     path = PathFinder()
 
-    browser = start_firefox(url, headless=True)
-    soup = BeautifulSoup(browser.page_source, 'html.parser')
-    kill_browser()
+    data = requests.get(url)
+    soup = BeautifulSoup(data.content, "html.parser")
+    quotes = soup.find_all()
+    
     # HTML Part ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     quotes = soup.find_all()
@@ -38,6 +39,10 @@ def FusionScrap(url):
 
     # JS Part   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+    #browser = start_firefox(url, headless=True)
+    #soup = BeautifulSoup(browser.page_source, 'html.parser')
+    #kill_browser()
+    
     quotes = soup.find_all('script')
     pathf2 = path + "outputJS.txt"
     pathf3 = path + "hash.txt"
@@ -79,7 +84,9 @@ def FusionScrap(url):
     #path.append(pathf2)
     #return(path)
 
-#url = "https://www.paniswojegoczasu.pl/blog/"
+#url = "http://127.0.0.1:8080/"
+
 #path = PathFinder()
 #print(path)
+
 #FusionScrap(url)
