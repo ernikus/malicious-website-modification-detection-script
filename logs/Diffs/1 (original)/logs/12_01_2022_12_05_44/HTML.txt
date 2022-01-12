@@ -1,5 +1,4 @@
-<html>
-<title>W3.CSS Template</title>
+<html><head><title>W3.CSS Template</title>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/>
@@ -13,21 +12,20 @@ body {font-family: "Open Sans"}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-badge {height:13px;width:13px;padding:0}
 </style>
-<head>
 <meta charset="utf-8"/>
 <title>Hello GPT</title>
 <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
-    window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-      googletag
-          .defineSlot(
-              '/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
-          .addService(googletag.pubads());
-      googletag.enableServices();
-    });
-  </script>
-</head>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script><link as="script" href="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script><link as="script" href="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script></head>
 <body class="w3-light-grey">
 <!-- Navigation bar with social media icons -->
 <div class="w3-bar w3-black w3-hide-small">
@@ -39,7 +37,7 @@ body {font-family: "Open Sans"}
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-linkedin"></i></a>
 <a class="w3-bar-item w3-button w3-right" href="#"><i class="fa fa-search"></i></a>
 </div>
-<!-- w3-content defines a container for fixed size centered content, 
+<!-- w3-content defines a container for fixed size centered content,
 and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-content" style="max-width:1600px">
 <!-- Header -->
@@ -49,9 +47,9 @@ and is wrapped around the whole page content, except for the footer in this exam
 </header>
 <!-- Image header -->
 <header class="w3-display-container w3-wide" id="home">
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" style="display: block;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" style="display: none;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" style="display: none;" width="100%"/>
 <div class="w3-display-left w3-padding-large">
 <h1 class="w3-text-white">Jane's</h1>
 <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
@@ -60,7 +58,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div>
-<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
 </div>
@@ -77,22 +75,22 @@ and is wrapped around the whole page content, except for the footer in this exam
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -115,7 +113,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -153,7 +151,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -193,37 +191,37 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- END BLOG ENTRIES -->
 </div>
 <script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
 
-      showDivs(1, 0);
-      showDivs(1, 1);
-      
-      function plusDivs(n, no) {
-        showDivs(slideIndex[no] += n, no);
-      }
+showDivs(1, 0);
+showDivs(1, 1);
 
-      function currentDiv(n, no) {
-        showDivs(slideIndex[no] = n, no);
-      }
-      
-      function showDivs(n, no) {
-        var i;
-        var x = document.getElementsByClassName(slideId[no]);
-        var dots = document.getElementsByClassName(dotsId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";  
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" w3-white", "");
-        }
-        x[slideIndex[no]-1].style.display = "block";  
-        dots[slideIndex[no]-1].className += " w3-white";
-      }
-    </script>
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
 <!-- About/Information menu -->
 <div class="w3-col l4">
 <!-- About Card -->
@@ -274,15 +272,8 @@ and is wrapped around the whole page content, except for the footer in this exam
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div>
 <hr/>
@@ -371,129 +362,141 @@ and is wrapped around the whole page content, except for the footer in this exam
 // Toggle between hiding and showing blog replies/comments
 document.getElementById("myBtn").click();
 function myFunction(id) {
-  var x = document.getElementById(id);
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
 }
 
 function likeFunction(x) {
-  x.style.fontWeight = "bold";
-  x.innerHTML = "✓ Liked";
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
 }
 </script>
 <!-- Current Time and Date -->
-<p>Current Time: <span id="datetime"></span></p>
+<p>Current Time: <span id="datetime">1/12/2022, 12:05:41 PM</span></p>
 <script>
-  var dt = new Date();
-  document.getElementById("datetime").innerHTML = dt.toLocaleString();
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
 </script>
 <!-- Current GeoLocation (if Location enabled) -->
 <p>Current Location: <span id="geoloc"></span></p>
 <script>
-  var x = document.getElementById("geoloc");
+var x = document.getElementById("geoloc");
 
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showPosition, showError);
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
 
-  function showPosition(position) {
-    x.innerHTML = "Latitude: " + position.coords.latitude + 
-    "<br>Longitude: " + position.coords.longitude;
-  }
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
 
-  function showError(error) {
-    switch(error.code) {
-      case error.PERMISSION_DENIED:
-        x.innerHTML = "User denied the request for Geolocation."
-        break;
-      case error.POSITION_UNAVAILABLE:
-        x.innerHTML = "Location information is unavailable."
-        break;
-      case error.TIMEOUT:
-        x.innerHTML = "The request to get user location timed out."
-        break;
-      case error.UNKNOWN_ERROR:
-        x.innerHTML = "An unknown error occurred."
-        break;
-    }
-  }
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
 </script>
 <!-- The Browser Platform -->
-<p id="OSInfo"></p>
+<p id="OSInfo">navigator.platform: Linux x86_64</p>
 <script>
-  document.getElementById("OSInfo").innerHTML = 
-  "navigator.platform: " + navigator.platform;
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
 </script>
 <!-- The Browser Language -->
-<p id="LangInfo"></p>
+<p id="LangInfo">navigator.language: en-US</p>
 <script>
-  document.getElementById("LangInfo").innerHTML =
-  "navigator.language: " + navigator.language;
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
 </script>
 <!-- Is Java Enabled? -->
-<p id="JavaInfo"></p>
+<p id="JavaInfo">javaEnabled: false</p>
 <script>
-  document.getElementById("JavaInfo").innerHTML =
-  "javaEnabled: " + navigator.javaEnabled();
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
 </script>
 <!-- Browser Cookies -->
-<p id="CookieInfo"></p>
+<p id="CookieInfo">navigator.cookieEnabled: true</p>
 <script>
-  document.getElementById("CookieInfo").innerHTML =
-  "navigator.cookieEnabled: " + navigator.cookieEnabled;
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
 </script>
 <!-- Secret Prompt Box -->
 <button onclick="myFunction()">Secret Button</button>
 <p id="secretdata"></p>
 <script>
-  function myFunction() {
-    let text;
-    let person = prompt("Please enter your name:", "Jane");
-    if (person == null || person == "") {
-      text = "User cancelled the prompt.";
-    } else {
-      text = "Hello " + person + "!\nYou found the Secret!\n";
-      alert("Here is the secret phrase!");
-    }
-    document.getElementById("secretdata").innerHTML = text;
-  }
-</script>
-</body>
-</html><title>W3.CSS Template</title><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/><style>
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script><iframe src="https://bb3e95e7e062786c60bb45223b9db079.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="visibility: hidden; display: none;"></iframe>
+<iframe height="0" src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html" style="display: none;" width="0"></iframe><iframe height="0" src="https://www.google.com/recaptcha/api2/aframe" style="display: none;" width="0"></iframe></body></html><head><title>W3.CSS Template</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
 .mySlides {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-badge {height:13px;width:13px;padding:0}
-</style><head>
+</style>
 <meta charset="utf-8"/>
 <title>Hello GPT</title>
 <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
-    window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-      googletag
-          .defineSlot(
-              '/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
-          .addService(googletag.pubads());
-      googletag.enableServices();
-    });
-  </script>
-</head><meta charset="utf-8"/><title>Hello GPT</title><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
-    window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-      googletag
-          .defineSlot(
-              '/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
-          .addService(googletag.pubads());
-      googletag.enableServices();
-    });
-  </script><body class="w3-light-grey">
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script><link as="script" href="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script><link as="script" href="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script></head><title>W3.CSS Template</title><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/><style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style><meta charset="utf-8"/><title>Hello GPT</title><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag
+.defineSlot(
+'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+.addService(googletag.pubads());
+googletag.enableServices();
+});
+</script><meta content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=" http-equiv="origin-trial"/><meta content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/><meta content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/><meta content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><meta content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9" http-equiv="origin-trial"/><script async="" src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022010407.js"></script><link as="script" href="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.pl/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script><link as="script" href="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" rel="preload"/><script src="https://adservice.google.com/adsid/integrator.js?domain=127.0.0.1" type="text/javascript"></script><body class="w3-light-grey">
 <!-- Navigation bar with social media icons -->
 <div class="w3-bar w3-black w3-hide-small">
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-facebook-official"></i></a>
@@ -504,7 +507,7 @@ body {font-family: "Open Sans"}
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-linkedin"></i></a>
 <a class="w3-bar-item w3-button w3-right" href="#"><i class="fa fa-search"></i></a>
 </div>
-<!-- w3-content defines a container for fixed size centered content, 
+<!-- w3-content defines a container for fixed size centered content,
 and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-content" style="max-width:1600px">
 <!-- Header -->
@@ -514,9 +517,9 @@ and is wrapped around the whole page content, except for the footer in this exam
 </header>
 <!-- Image header -->
 <header class="w3-display-container w3-wide" id="home">
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" style="display: block;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" style="display: none;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" style="display: none;" width="100%"/>
 <div class="w3-display-left w3-padding-large">
 <h1 class="w3-text-white">Jane's</h1>
 <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
@@ -525,7 +528,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div>
-<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
 </div>
@@ -542,22 +545,22 @@ and is wrapped around the whole page content, except for the footer in this exam
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -580,7 +583,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -618,7 +621,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -658,37 +661,37 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- END BLOG ENTRIES -->
 </div>
 <script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
 
-      showDivs(1, 0);
-      showDivs(1, 1);
-      
-      function plusDivs(n, no) {
-        showDivs(slideIndex[no] += n, no);
-      }
+showDivs(1, 0);
+showDivs(1, 1);
 
-      function currentDiv(n, no) {
-        showDivs(slideIndex[no] = n, no);
-      }
-      
-      function showDivs(n, no) {
-        var i;
-        var x = document.getElementsByClassName(slideId[no]);
-        var dots = document.getElementsByClassName(dotsId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";  
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" w3-white", "");
-        }
-        x[slideIndex[no]-1].style.display = "block";  
-        dots[slideIndex[no]-1].className += " w3-white";
-      }
-    </script>
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
 <!-- About/Information menu -->
 <div class="w3-col l4">
 <!-- About Card -->
@@ -739,15 +742,8 @@ and is wrapped around the whole page content, except for the footer in this exam
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div>
 <hr/>
@@ -836,99 +832,99 @@ and is wrapped around the whole page content, except for the footer in this exam
 // Toggle between hiding and showing blog replies/comments
 document.getElementById("myBtn").click();
 function myFunction(id) {
-  var x = document.getElementById(id);
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
 }
 
 function likeFunction(x) {
-  x.style.fontWeight = "bold";
-  x.innerHTML = "✓ Liked";
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
 }
 </script>
 <!-- Current Time and Date -->
-<p>Current Time: <span id="datetime"></span></p>
+<p>Current Time: <span id="datetime">1/12/2022, 12:05:41 PM</span></p>
 <script>
-  var dt = new Date();
-  document.getElementById("datetime").innerHTML = dt.toLocaleString();
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
 </script>
 <!-- Current GeoLocation (if Location enabled) -->
 <p>Current Location: <span id="geoloc"></span></p>
 <script>
-  var x = document.getElementById("geoloc");
+var x = document.getElementById("geoloc");
 
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showPosition, showError);
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
 
-  function showPosition(position) {
-    x.innerHTML = "Latitude: " + position.coords.latitude + 
-    "<br>Longitude: " + position.coords.longitude;
-  }
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
 
-  function showError(error) {
-    switch(error.code) {
-      case error.PERMISSION_DENIED:
-        x.innerHTML = "User denied the request for Geolocation."
-        break;
-      case error.POSITION_UNAVAILABLE:
-        x.innerHTML = "Location information is unavailable."
-        break;
-      case error.TIMEOUT:
-        x.innerHTML = "The request to get user location timed out."
-        break;
-      case error.UNKNOWN_ERROR:
-        x.innerHTML = "An unknown error occurred."
-        break;
-    }
-  }
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
 </script>
 <!-- The Browser Platform -->
-<p id="OSInfo"></p>
+<p id="OSInfo">navigator.platform: Linux x86_64</p>
 <script>
-  document.getElementById("OSInfo").innerHTML = 
-  "navigator.platform: " + navigator.platform;
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
 </script>
 <!-- The Browser Language -->
-<p id="LangInfo"></p>
+<p id="LangInfo">navigator.language: en-US</p>
 <script>
-  document.getElementById("LangInfo").innerHTML =
-  "navigator.language: " + navigator.language;
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
 </script>
 <!-- Is Java Enabled? -->
-<p id="JavaInfo"></p>
+<p id="JavaInfo">javaEnabled: false</p>
 <script>
-  document.getElementById("JavaInfo").innerHTML =
-  "javaEnabled: " + navigator.javaEnabled();
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
 </script>
 <!-- Browser Cookies -->
-<p id="CookieInfo"></p>
+<p id="CookieInfo">navigator.cookieEnabled: true</p>
 <script>
-  document.getElementById("CookieInfo").innerHTML =
-  "navigator.cookieEnabled: " + navigator.cookieEnabled;
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
 </script>
 <!-- Secret Prompt Box -->
 <button onclick="myFunction()">Secret Button</button>
 <p id="secretdata"></p>
 <script>
-  function myFunction() {
-    let text;
-    let person = prompt("Please enter your name:", "Jane");
-    if (person == null || person == "") {
-      text = "User cancelled the prompt.";
-    } else {
-      text = "Hello " + person + "!\nYou found the Secret!\n";
-      alert("Here is the secret phrase!");
-    }
-    document.getElementById("secretdata").innerHTML = text;
-  }
-</script>
-</body><div class="w3-bar w3-black w3-hide-small">
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script><iframe src="https://bb3e95e7e062786c60bb45223b9db079.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="visibility: hidden; display: none;"></iframe>
+<iframe height="0" src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html" style="display: none;" width="0"></iframe><iframe height="0" src="https://www.google.com/recaptcha/api2/aframe" style="display: none;" width="0"></iframe></body><div class="w3-bar w3-black w3-hide-small">
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-facebook-official"></i></a>
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-instagram"></i></a>
 <a class="w3-bar-item w3-button" href="#"><i class="fa fa-snapchat"></i></a>
@@ -944,9 +940,9 @@ function likeFunction(x) {
 </header>
 <!-- Image header -->
 <header class="w3-display-container w3-wide" id="home">
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" style="display: block;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" style="display: none;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" style="display: none;" width="100%"/>
 <div class="w3-display-left w3-padding-large">
 <h1 class="w3-text-white">Jane's</h1>
 <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
@@ -955,7 +951,7 @@ function likeFunction(x) {
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div>
-<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
 </div>
@@ -972,22 +968,22 @@ function likeFunction(x) {
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1010,7 +1006,7 @@ function likeFunction(x) {
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -1048,7 +1044,7 @@ function likeFunction(x) {
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -1088,37 +1084,37 @@ function likeFunction(x) {
 <!-- END BLOG ENTRIES -->
 </div>
 <script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
 
-      showDivs(1, 0);
-      showDivs(1, 1);
-      
-      function plusDivs(n, no) {
-        showDivs(slideIndex[no] += n, no);
-      }
+showDivs(1, 0);
+showDivs(1, 1);
 
-      function currentDiv(n, no) {
-        showDivs(slideIndex[no] = n, no);
-      }
-      
-      function showDivs(n, no) {
-        var i;
-        var x = document.getElementsByClassName(slideId[no]);
-        var dots = document.getElementsByClassName(dotsId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";  
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" w3-white", "");
-        }
-        x[slideIndex[no]-1].style.display = "block";  
-        dots[slideIndex[no]-1].className += " w3-white";
-      }
-    </script>
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
 <!-- About/Information menu -->
 <div class="w3-col l4">
 <!-- About Card -->
@@ -1169,15 +1165,8 @@ function likeFunction(x) {
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div>
 <hr/>
@@ -1248,9 +1237,9 @@ function likeFunction(x) {
 <h1 class="w3-xxxlarge"><b>JANE BLOGLIFE</b></h1>
 <h6>Welcome to the blog of <span class="w3-tag">Jane's world</span></h6>
 </header><h1 class="w3-xxxlarge"><b>JANE BLOGLIFE</b></h1><b>JANE BLOGLIFE</b><h6>Welcome to the blog of <span class="w3-tag">Jane's world</span></h6><span class="w3-tag">Jane's world</span><header class="w3-display-container w3-wide" id="home">
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/>
-<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" style="display: block;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" style="display: none;" width="100%"/>
+<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" style="display: none;" width="100%"/>
 <div class="w3-display-left w3-padding-large">
 <h1 class="w3-text-white">Jane's</h1>
 <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
@@ -1259,21 +1248,21 @@ function likeFunction(x) {
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div>
-<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
 </div>
-</header><img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/><img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/><img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/><div class="w3-display-left w3-padding-large">
+</header><img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" style="display: block;" width="100%"/><img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" style="display: none;" width="100%"/><img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" style="display: none;" width="100%"/><div class="w3-display-left w3-padding-large">
 <h1 class="w3-text-white">Jane's</h1>
 <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
 <h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
 </div><h1 class="w3-text-white">Jane's</h1><h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1><b>FASHION BLOG</b><h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button><div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div>
-<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
 <span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
-</div><div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div><div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span><div class="w3-row w3-padding w3-border">
+</div><div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 0)">❮</div><div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 0)">❯</div><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 0)"></span><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span><span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span><div class="w3-row w3-padding w3-border">
 <!-- Blog entries -->
 <div class="w3-col l8 s12">
 <!-- Blog entry -->
@@ -1284,22 +1273,22 @@ function likeFunction(x) {
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1322,7 +1311,7 @@ function likeFunction(x) {
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -1360,7 +1349,7 @@ function likeFunction(x) {
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -1400,37 +1389,37 @@ function likeFunction(x) {
 <!-- END BLOG ENTRIES -->
 </div>
 <script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
 
-      showDivs(1, 0);
-      showDivs(1, 1);
-      
-      function plusDivs(n, no) {
-        showDivs(slideIndex[no] += n, no);
-      }
+showDivs(1, 0);
+showDivs(1, 1);
 
-      function currentDiv(n, no) {
-        showDivs(slideIndex[no] = n, no);
-      }
-      
-      function showDivs(n, no) {
-        var i;
-        var x = document.getElementsByClassName(slideId[no]);
-        var dots = document.getElementsByClassName(dotsId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";  
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" w3-white", "");
-        }
-        x[slideIndex[no]-1].style.display = "block";  
-        dots[slideIndex[no]-1].className += " w3-white";
-      }
-    </script>
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script>
 <!-- About/Information menu -->
 <div class="w3-col l4">
 <!-- About Card -->
@@ -1481,15 +1470,8 @@ function likeFunction(x) {
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div>
 <hr/>
@@ -1563,22 +1545,22 @@ function likeFunction(x) {
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1601,7 +1583,7 @@ function likeFunction(x) {
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -1639,7 +1621,7 @@ function likeFunction(x) {
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -1684,22 +1666,22 @@ function likeFunction(x) {
 </div>
 <div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1715,22 +1697,22 @@ function likeFunction(x) {
 <h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
 </div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5><span class="w3-opacity">May 2, 2016</span><div class="w3-justify">
 <div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
 </div>
 <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
 <p class="w3-clear"></p>
-<div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+<div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1741,21 +1723,21 @@ function likeFunction(x) {
 </div>
 </div>
 </div><div class="w3-display-container">
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
-<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/>
+<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/>
 <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
 </div>
-</div><img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/><img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/><div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+</div><img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width: 100%; display: block;"/><img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width: 100%; display: none;"/><div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
 <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div>
 <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div>
-<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span>
 <span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
-</div><div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div><div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div><span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span><span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span><p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><strong>More Hats!</strong><p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button><b>Replies  </b><span class="w3-tag w3-white">1</span><p class="w3-clear"></p><div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+</div><div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1, 1)">❮</div><div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1, 1)">❯</div><span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white w3-white" onclick="currentDiv(1, 1)"></span><span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span><p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><strong>More Hats!</strong><p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button><b>Replies  </b><span class="w3-tag w3-white">1</span><p class="w3-clear"></p><div class="w3-row w3-margin-bottom w3-show" id="demo1" style="display:none">
 <hr/>
 <div class="w3-col l2 m3">
 <img src="./image/avatar_smoke.jpg" style="width:90px;"/>
@@ -1778,7 +1760,7 @@ function likeFunction(x) {
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -1812,7 +1794,7 @@ function likeFunction(x) {
 <img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
 <p><strong>Hats!</strong> The trend this summer is hats for men!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
 <p class="w3-clear"></p>
@@ -1839,7 +1821,7 @@ function likeFunction(x) {
 </div>
 </div>
 </div><img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/><p><strong>Hats!</strong> The trend this summer is hats for men!</p><strong>Hats!</strong><p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button><b>Replies  </b><span class="w3-tag w3-white">2</span><p class="w3-clear"></p><div id="demo2" style="display:none">
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button><b>Replies  </b><span class="w3-tag w3-white">2</span><p class="w3-clear"></p><div id="demo2" style="display:none">
 <div class="w3-row">
 <hr/>
 <div class="w3-col l2 m3">
@@ -1895,7 +1877,7 @@ function likeFunction(x) {
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -1938,7 +1920,7 @@ function likeFunction(x) {
 <img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
 <p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
 <p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
 <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
 <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
 <p class="w3-clear"></p>
@@ -1974,7 +1956,7 @@ function likeFunction(x) {
 </div>
 </div>
 </div><img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/><p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p><strong>Dont miss!</strong><p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
-            mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button><b>Replies  </b><span class="w3-tag w3-white">3</span><p class="w3-clear"></p><div id="demo3" style="display:none">
+mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button><b>Replies  </b><span class="w3-tag w3-white">3</span><p class="w3-clear"></p><div id="demo3" style="display:none">
 <hr/>
 <div class="w3-row w3-margin-bottom">
 <div class="w3-col l2 m3">
@@ -2043,37 +2025,37 @@ function likeFunction(x) {
 <h4>Anja <span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4>
 <p>Cant wait for the runway to start!</p>
 </div><h4>Anja <span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4><span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span><p>Cant wait for the runway to start!</p><script>
-      var slideIndex = [1,1];
-      var slideId = ["mySlides1", "mySlides2"]
-      var dotsId = ["myDots1", "myDots2"]
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+var dotsId = ["myDots1", "myDots2"]
 
-      showDivs(1, 0);
-      showDivs(1, 1);
-      
-      function plusDivs(n, no) {
-        showDivs(slideIndex[no] += n, no);
-      }
+showDivs(1, 0);
+showDivs(1, 1);
 
-      function currentDiv(n, no) {
-        showDivs(slideIndex[no] = n, no);
-      }
-      
-      function showDivs(n, no) {
-        var i;
-        var x = document.getElementsByClassName(slideId[no]);
-        var dots = document.getElementsByClassName(dotsId[no]);
-        if (n > x.length) {slideIndex[no] = 1}
-        if (n < 1) {slideIndex[no] = x.length}
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";  
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" w3-white", "");
-        }
-        x[slideIndex[no]-1].style.display = "block";  
-        dots[slideIndex[no]-1].className += " w3-white";
-      }
-    </script><div class="w3-col l4">
+function plusDivs(n, no) {
+showDivs(slideIndex[no] += n, no);
+}
+
+function currentDiv(n, no) {
+showDivs(slideIndex[no] = n, no);
+}
+
+function showDivs(n, no) {
+var i;
+var x = document.getElementsByClassName(slideId[no]);
+var dots = document.getElementsByClassName(dotsId[no]);
+if (n > x.length) {slideIndex[no] = 1}
+if (n < 1) {slideIndex[no] = x.length}
+for (i = 0; i < x.length; i++) {
+x[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" w3-white", "");
+}
+x[slideIndex[no]-1].style.display = "block";
+dots[slideIndex[no]-1].className += " w3-white";
+}
+</script><div class="w3-col l4">
 <!-- About Card -->
 <div class="w3-white w3-margin">
 <img alt="Jane" class="w3-grayscale" src="./image/avatar_girl2.jpg" style="width:100%"/>
@@ -2122,15 +2104,8 @@ function likeFunction(x) {
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div>
 <hr/>
@@ -2284,47 +2259,16 @@ function likeFunction(x) {
 <h4>Advertise</h4>
 </div>
 <div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
 </div>
 </div><div class="w3-container w3-padding w3-black">
 <h4>Advertise</h4>
 </div><h4>Advertise</h4><div class="w3-container w3-center w3-white">
-<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div>
-</div><div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
-<span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span>
-</div><span class="w3-display-middle">
-<script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script>
-</span><script>
-                googletag.cmd.push(function() {
-                  googletag.display('banner-ad');
-                });
-              </script><hr/><div class="w3-white w3-margin">
+<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div>
+</div><div class="w3-container w3-display-container w3-light-grey w3-section w3-center" data-google-query-id="COCI_-eIrPUCFatcwgodVdQJ3A" id="banner-ad" style="width: 100%; height: 100%">
+<div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div></div><div id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0__container__" style="border: 0pt none;"><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe></div><iframe aria-label="Advertisement" data-google-container-id="1" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/6355419/Travel/Europe/France/Paris_0" role="region" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" tabindex="0" title="3rd party ad content" width="300"></iframe><hr/><div class="w3-white w3-margin">
 <div class="w3-container w3-padding w3-black">
 <h4>Tags</h4>
 </div>
@@ -2451,73 +2395,73 @@ function likeFunction(x) {
 // Toggle between hiding and showing blog replies/comments
 document.getElementById("myBtn").click();
 function myFunction(id) {
-  var x = document.getElementById(id);
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
+var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+x.className += " w3-show";
+} else {
+x.className = x.className.replace(" w3-show", "");
+}
 }
 
 function likeFunction(x) {
-  x.style.fontWeight = "bold";
-  x.innerHTML = "✓ Liked";
+x.style.fontWeight = "bold";
+x.innerHTML = "✓ Liked";
 }
-</script><p>Current Time: <span id="datetime"></span></p><span id="datetime"></span><script>
-  var dt = new Date();
-  document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script><p>Current Time: <span id="datetime">1/12/2022, 12:05:41 PM</span></p><span id="datetime">1/12/2022, 12:05:41 PM</span><script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
 </script><p>Current Location: <span id="geoloc"></span></p><span id="geoloc"></span><script>
-  var x = document.getElementById("geoloc");
+var x = document.getElementById("geoloc");
 
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showPosition, showError);
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
+if (navigator.geolocation) {
+navigator.geolocation.getCurrentPosition(showPosition, showError);
+} else {
+x.innerHTML = "Geolocation is not supported by this browser.";
+}
 
-  function showPosition(position) {
-    x.innerHTML = "Latitude: " + position.coords.latitude + 
-    "<br>Longitude: " + position.coords.longitude;
-  }
+function showPosition(position) {
+x.innerHTML = "Latitude: " + position.coords.latitude +
+"<br>Longitude: " + position.coords.longitude;
+}
 
-  function showError(error) {
-    switch(error.code) {
-      case error.PERMISSION_DENIED:
-        x.innerHTML = "User denied the request for Geolocation."
-        break;
-      case error.POSITION_UNAVAILABLE:
-        x.innerHTML = "Location information is unavailable."
-        break;
-      case error.TIMEOUT:
-        x.innerHTML = "The request to get user location timed out."
-        break;
-      case error.UNKNOWN_ERROR:
-        x.innerHTML = "An unknown error occurred."
-        break;
-    }
-  }
-</script><p id="OSInfo"></p><script>
-  document.getElementById("OSInfo").innerHTML = 
-  "navigator.platform: " + navigator.platform;
-</script><p id="LangInfo"></p><script>
-  document.getElementById("LangInfo").innerHTML =
-  "navigator.language: " + navigator.language;
-</script><p id="JavaInfo"></p><script>
-  document.getElementById("JavaInfo").innerHTML =
-  "javaEnabled: " + navigator.javaEnabled();
-</script><p id="CookieInfo"></p><script>
-  document.getElementById("CookieInfo").innerHTML =
-  "navigator.cookieEnabled: " + navigator.cookieEnabled;
+function showError(error) {
+switch(error.code) {
+case error.PERMISSION_DENIED:
+x.innerHTML = "User denied the request for Geolocation."
+break;
+case error.POSITION_UNAVAILABLE:
+x.innerHTML = "Location information is unavailable."
+break;
+case error.TIMEOUT:
+x.innerHTML = "The request to get user location timed out."
+break;
+case error.UNKNOWN_ERROR:
+x.innerHTML = "An unknown error occurred."
+break;
+}
+}
+</script><p id="OSInfo">navigator.platform: Linux x86_64</p><script>
+document.getElementById("OSInfo").innerHTML =
+"navigator.platform: " + navigator.platform;
+</script><p id="LangInfo">navigator.language: en-US</p><script>
+document.getElementById("LangInfo").innerHTML =
+"navigator.language: " + navigator.language;
+</script><p id="JavaInfo">javaEnabled: false</p><script>
+document.getElementById("JavaInfo").innerHTML =
+"javaEnabled: " + navigator.javaEnabled();
+</script><p id="CookieInfo">navigator.cookieEnabled: true</p><script>
+document.getElementById("CookieInfo").innerHTML =
+"navigator.cookieEnabled: " + navigator.cookieEnabled;
 </script><button onclick="myFunction()">Secret Button</button><p id="secretdata"></p><script>
-  function myFunction() {
-    let text;
-    let person = prompt("Please enter your name:", "Jane");
-    if (person == null || person == "") {
-      text = "User cancelled the prompt.";
-    } else {
-      text = "Hello " + person + "!\nYou found the Secret!\n";
-      alert("Here is the secret phrase!");
-    }
-    document.getElementById("secretdata").innerHTML = text;
-  }
-</script>
+function myFunction() {
+let text;
+let person = prompt("Please enter your name:", "Jane");
+if (person == null || person == "") {
+text = "User cancelled the prompt.";
+} else {
+text = "Hello " + person + "!\nYou found the Secret!\n";
+alert("Here is the secret phrase!");
+}
+document.getElementById("secretdata").innerHTML = text;
+}
+</script><iframe src="https://bb3e95e7e062786c60bb45223b9db079.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" style="visibility: hidden; display: none;"></iframe><iframe height="0" src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html" style="display: none;" width="0"></iframe><iframe height="0" src="https://www.google.com/recaptcha/api2/aframe" style="display: none;" width="0"></iframe>

@@ -1,0 +1,7 @@
+Different Lines in Both Files
+@-Line-457</body></html><head><title>W3.CSSTemplate</title>
+#+Line-457<iframeheight="0"src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html"style="display:none;"width="0"></iframe><iframeheight="0"src="https://www.google.com/recaptcha/api2/aframe"style="display:none;"width="0"></iframe></body></html><head><title>W3.CSSTemplate</title>
+
+@-Line-927</body><divclass="w3-barw3-blackw3-hide-small">
+#+Line-927<iframeheight="0"src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html"style="display:none;"width="0"></iframe><iframeheight="0"src="https://www.google.com/recaptcha/api2/aframe"style="display:none;"width="0"></iframe></body><divclass="w3-barw3-blackw3-hide-small">
+
