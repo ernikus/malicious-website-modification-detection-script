@@ -1,0 +1,631 @@
+ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script$ cd FIN/
+ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script/FIN$ ls
+FusionScrap.py  HTMLcheck.py  logs     PathFinder.py        __pycache__        roznicaHTML.txt
+hashowanie.py   info.py       main.py  porownanie_hashy.py  reqFusionScrap.py  zapis_danych.py
+ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script/FIN$ rm -rf logs/
+ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script/FIN$ ls
+FusionScrap.py  HTMLcheck.py  main.py        porownanie_hashy.py  reqFusionScrap.py  zapis_danych.py
+hashowanie.py   info.py       PathFinder.py  __pycache__          roznicaHTML.txt
+ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script/FIN$ python3 main.py 
+Co jaki czas chcesz aby sprawdzac zmiany na stronie?
+
+linia(-e), które zostały dodane i może zmienione: 
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<div class="w3-justify">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<div class="w3-justify">
+
+<div class="w3-center">
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<div class="w3-justify">
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h3>TITLE HEADING</h3>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+</div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5><span class="w3-opacity">December 10, 2021</span><div class="w3-justify">
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<p class="w3-clear"></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+</div><img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/><p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p><strong>Hey, you. You're finally awake.</strong><p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p><strong>You there. You and me — we should be here.</strong><p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p><strong>I don't know where we're going, but Sovngarde awaits.</strong><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button><b>Replies </b><span class="w3-tag w3-white">5</span><p class="w3-clear"></p><div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+</div><h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4><span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span><p>Let me guess someone stole your sweetroll?</p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><strong>More Hats!</strong><p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button><b>Replies  </b><span class="w3-tag w3-white">1</span><p class="w3-clear"></p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+</div><div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Brak zmian
+linia(-e), które zostały usunięte i może zmienione: 
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<div class="w3-justify">
+
+<!-- Blog entry -->
+
+<div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<div class="w3-justify">
+
+<div class="w3-center">
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+<div class="w3-justify">
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h3>TITLE HEADING</h3>
+
+<h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5>
+
+</div><h3>TITLE HEADING</h3><h5>Title description, <span class="w3-opacity">December 10, 2021</span></h5><span class="w3-opacity">December 10, 2021</span><div class="w3-justify">
+
+<img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/>
+
+<p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p>
+
+<p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p>
+
+<p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p>
+
+<p class="w3-clear"></p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+</div><img alt="Girl Hat" class="w3-padding-16" src="./image/photo-camera.jpg" style="width:100%"/><p><strong>Hey, you. You're finally awake.</strong> You were trying to cross the border, right?
+
+Walked right into that Imperial ambush, same as us, and that thief over there. Damn you Stormcloaks. Skyrim was fine until you came along.
+
+Empire was nice and lazy. If they hadn't been looking for you, I could've stolen that horse and been half way to Hammerfell.</p><strong>Hey, you. You're finally awake.</strong><p><strong>You there. You and me — we should be here.</strong> It's these Stormcloaks the Empire wants. We're all brothers and sisters in binds now, thief.</p><strong>You there. You and me — we should be here.</strong><p>And what's wrong with him, huh? Watch your tongue. You're speaking to Ulfric Stormcloak, the true High King. Ulfric? The Jarl of Windhelm? You're the leader of the rebellion.
+
+But if they've captured you... Oh gods, where are they taking us? <strong>I don't know where we're going, but Sovngarde awaits.</strong></p><strong>I don't know where we're going, but Sovngarde awaits.</strong><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies </b> <span class="w3-tag w3-white">5</span></button><b>Replies </b><span class="w3-tag w3-white">5</span><p class="w3-clear"></p><div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+<h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4>
+
+<p>Let me guess someone stole your sweetroll?</p>
+
+</div><h4>George <span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span></h4><span class="w3-opacity w3-medium">December 11, 2021, 4:20 AM</span><p>Let me guess someone stole your sweetroll?</p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p><strong>More Hats!</strong><p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p><p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button><b><i class="fa fa-thumbs-up"></i> Like</b><i class="fa fa-thumbs-up"></i><p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button><b>Replies  </b><span class="w3-tag w3-white">1</span><p class="w3-clear"></p><hr/><div class="w3-container w3-white w3-margin w3-padding-large">
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<div class="w3-justify">
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+</div><div class="w3-center">
+
+<h3>TITLE HEADING</h3>
+
+<p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+
+<p class="w3-clear"></p>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
