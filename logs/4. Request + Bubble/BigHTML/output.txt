@@ -29889,16 +29889,3 @@ Different Lines in Both Files
 @-Line-2657</script>
 
 #Line-2657
-
-
-
-Brak zmian
-Different Lines in Both Files
-
-Brak zmian
-^CTraceback (most recent call last):
-  File "main.py", line 99, in <module>
-    time.sleep(tim);
-KeyboardInterrupt
-
-ernest@ernest-VirtualBox:~/Documents/MegaSync/ProjectScript/malicious-website-modification-detection-script/FIN$ 
