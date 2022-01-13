@@ -1,0 +1,2 @@
+Nastąpiła zmiana w pliku(-ach) o hashach:
+410d7354ec601ffe64bbeecf67f3bcc7cb1e7ec9ae6ad80abd0d18fd149ad95ef8f905f0f2cc8a0cdde4183964cda9cff661db965f9c283d1120ea3ea7d4a9e0
