@@ -9,7 +9,7 @@ import time
 import os
 from PathFinder import directory
 from FusionScrap import FusionScrap
-from HTMLcheck import checkHTML
+from bubble import checkHTML
 from porownanie_hashy import porownanie
 from zapis_danych import zapis
 from info import email, info
