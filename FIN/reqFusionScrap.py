@@ -1,5 +1,4 @@
 #importing the libs
-from helium import *
 from bs4 import BeautifulSoup
 import requests
 from PathFinder import PathFinder
@@ -11,12 +10,16 @@ def FusionScrap(url):
     path = PathFinder()
 
     data = requests.get(url)
-    soup = BeautifulSoup(data.content, "html.parser")
-    quotes = soup.find_all()
+    soup = BeautifulSoup(data.content, features="lxml")
+    
+    # with open("out.txt", 'w', encoding="utf-8"):
+    #     print(soup)
+
+###DOBRE
     
     # HTML Part ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    quotes = soup.find_all()
+    quotes = str(soup)
 
     pathf1 = path + "outputHTML.txt"
 
@@ -38,12 +41,10 @@ def FusionScrap(url):
     file1.close()
 
     # JS Part   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    #browser = start_firefox(url, headless=True)
-    #soup = BeautifulSoup(browser.page_source, 'html.parser')
-    #kill_browser()
     
+    # trial_data = str(soup)
     quotes = soup.find_all('script')
+    
     pathf2 = path + "outputJS.txt"
     pathf3 = path + "hash.txt"
     file2 = open(pathf2, 'w', encoding="utf-8")
@@ -74,19 +75,15 @@ def FusionScrap(url):
             file3.write(hashowanie(quotes[i]))
             file3.write("\n")
 
-
-
     file2.close()
     file3.close()
-    #path =[]
+
     return(pathf1, pathf2)
-    #path.append(pathf1)
-    #path.append(pathf2)
-    #return(path)
 
-url = "http://127.0.0.1:8080/"
 
-path = PathFinder()
-print(path)
+# url = "http://127.0.0.1:8080/"
 
-FusionScrap(url)
+# path = PathFinder()
+# print(path)
+
+# FusionScrap(url)
