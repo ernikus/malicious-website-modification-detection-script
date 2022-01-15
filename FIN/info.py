@@ -70,6 +70,7 @@ def info(plik):
         except:
             print("Problem z zmienną do wysłania do administratora")
 
+    #print("\n")
 #mail = ""
 #password = ""
 #tekst = []  #zmienna globalna
