@@ -88,8 +88,8 @@ def checkHTML(f1, f2):
 
             no=0
 
-            f.write('Nastąpiła zmiana w lini(-ach): \n');
             if No:
+                f.write('Nastąpiła zmiana w lini(-ach): \n');
                 for line in lista3:
                     line = str(line)
                     f.write("linia ");
@@ -206,7 +206,7 @@ def checkHTML(f1, f2):
                     f.write(line);
                     f.write("\n");
 
-            f.write("\n==========================================\n\n")
+            f.write("\n")
             no=0
             if(len(lista) > len(lista2)):
                 f.write("linia(-e), które zostały usuniete i może zmienione w starym kodzie: \n");

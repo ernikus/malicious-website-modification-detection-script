@@ -36,6 +36,7 @@ def porownanie (lista, lista2):
             #print('Nastąpiła zmiana w pliku(-ach) o hashach: ', roznica);
         #informacja jaki plik został zmieniony i informacja
         else:
+            f.write('Nie nastąpiła zmiana w plikach JS: \n');
             return(False);
         #zmieniajac roznica_set = set(lista2) - set(lista) mozna tez uzyskac
         #hash pliku ktory w tych nowych jest inny

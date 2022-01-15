@@ -81,6 +81,7 @@ while(True):
 
         info('diffHTML.txt')
         info('diffJS.txt')
+        print("\n=========================================================\n\n")
         if (mail!=''):
             email('diffHTML.txt','diffJS.txt', mail, password)
 
@@ -91,7 +92,7 @@ while(True):
         os.remove('hash.txt')
 
     else:
-        print("Nic sie nie zmienilo!")#info do admina na widok "brak zmian na stronie" albo zeby program byl cicho
+        print("Nie nastąpiła zmiana w kodzie strony!")#info do admina na widok "brak zmian na stronie" albo zeby program byl cicho
 
     #sound
     os.system('play -nq -t alsa synth {} sine {}'.format(duration,freq))

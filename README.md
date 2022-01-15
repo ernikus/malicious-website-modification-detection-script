@@ -12,9 +12,11 @@
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
  - Access to the **Internet** - Download Nginx Image for Docker
  - Access to **Administrator Account** for Setting Docker Containers and Right Privileges
+ - Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji
 
-! Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji" !
+## Warning
 
+ - Powtarzające się linie w kodzie strony mogą powodować nieprawidłowe informacje dot. numeru linii, w której nastąpiła zmiana
 
 ## Roadmap
 
