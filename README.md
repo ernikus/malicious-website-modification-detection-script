@@ -1,3 +1,4 @@
+
 # Malicious Website Modification Detection Script
 
 ¯ \ _(ツ) _ /¯
@@ -6,7 +7,7 @@
 
  - OS: **Linux**
  - Language: **Python 3**
- - Installed Additional Libraries for Python 3: **Helium and Beautiful Soup**
+ - Installed Additional Library for Python 3: **Beautiful Soup**
  - Installed **Docker**
  - Installed **Nginx**
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
@@ -16,7 +17,7 @@
 
 ## Warning
 
- - Powtarzające się linie w kodzie strony mogą powodować nieprawidłowe informacje dot. numeru linii, w której nastąpiła zmiana
+**Powtarzające się linie w kodzie strony mogą powodować nieprawidłowe informacje dot. numeru linii, w której nastąpiła zmiana**
 
 ## Roadmap
 
@@ -43,7 +44,11 @@
 	 - [x] Big JS Change Page
 	 - [x] Hacker Rick Break Page
 	 - [x] Create Quick Page Mount Scripts
- - [ ] Script Testing
+ - [x] Script Testing
+	 - [x] Save Logs and Outputs
+	 - [x] Analyse Data
+	 - [x] Correct Program
+	 - [x] Prevent Errors
  - [ ] Create Documentation
  - [ ] Create Report
  - [ ] Send a Report
@@ -80,8 +85,6 @@ Here are some helpfull links from other related projects
 [Awesome README](https://github.com/ernikus/sus-changes-on-webpage-script/blob/main/help%20links.txt)
 
 
-
 ### BONUS
-
 
 <img src="https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" height="300"/>

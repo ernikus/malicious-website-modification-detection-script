@@ -1,0 +1,6 @@
+Nastąpiła zmiana w lini(-ach):
+linia 450:		<button onclick="myFunction()">Magic Button</button>
+linia 455:		let person = prompt("Enter your name:", "Bob");
+linia 457:		text = "User cancelled the prompt";
+linia 459:		text = "Hello " + person + "!\nYou found the *Magic* Secret!\n";
+linia 460:		alert("Here is the magic phrase!");

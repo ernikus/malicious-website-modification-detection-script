@@ -1,3 +1,0 @@
-Hash(-e) plik(-u/-ów) które zostały dodane i może zmienione:
-bc7ebff5830d7b08d9181daf4d241caf040ee5e222f92fdeb223ac3b96e07f48ac9243caf74ab90c8c04820fb1a8d7fa1c610d22f757c16fefad8f2ca2a81c6a
-1cbfeade1a3f5d72bf0f2b907bef1d63c361de4b61f49f2ee8c8deee4a0d01ffddd39942b2538e38a13e742cf6fccfdd671375829f9d5440d864987f243051e6

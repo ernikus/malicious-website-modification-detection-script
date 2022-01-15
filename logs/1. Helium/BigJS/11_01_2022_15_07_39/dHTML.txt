@@ -1,7 +1,0 @@
-Different Lines in Both Files
-@-Line-457</body></html><head><title>W3.CSSTemplate</title>
-#+Line-457<scriptsrc="https://tpc.googlesyndication.com/sodar/sodar2.js"type="text/javascript"></script></body></html><head><title>W3.CSSTemplate</title>
-
-@-Line-927</body><divclass="w3-barw3-blackw3-hide-small">
-#+Line-927<scriptsrc="https://tpc.googlesyndication.com/sodar/sodar2.js"type="text/javascript"></script></body><divclass="w3-barw3-blackw3-hide-small">
-

@@ -1,0 +1,13 @@
+linia(-e), które zostały dodane i może zmienione w nowym kodzie:
+linia 20:		<script>
+linia 29:		</script>
+linia 204:		}
+linia 392:		<p>A script on this page starts this clock:</p>
+linia 393:		<p id="newClock"></p>
+linia 394:		<button onclick="clearInterval(clockVar)">Stop time</button>
+linia 396:		let clockVar = setInterval(myTimer ,1000);
+linia 397:		function myTimer() {
+linia 398:		const d = new Date();
+linia 399:		document.getElementById("newClock").innerHTML = d.toLocaleTimeString();
+
+linia(-e), które zostały dodane i może zmienione w starym kodzie:

@@ -1,0 +1,338 @@
+linia(-e), które zostały dodane i może zmienione w nowym kodzie:
+linia 36:		<h1 class="w3-xxxlarge"><b>RICK ROLL-LIFE</b></h1>
+linia 37:		<h6>Welcome to the blog of <span class="w3-tag">Hacker Rick</span></h6>
+linia 41:		<img alt="Fashion Blog" class="w3-image" height="1060" src="./image/banner.jpg" width="1600"/>
+linia 43:		<h1 class="w3-text-white">Rick</h1>
+linia 44:		<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HACKED THAT BLOG</b></h1>
+linia 45:		<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">*SURPRISE*</button></h6>
+linia 56:		<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+linia 59:		<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+linia 60:		<p>We're no strangers to love
+linia 61:		You know the rules and so do I
+linia 62:		A full commitment's what I'm thinking of
+linia 63:		You wouldn't get this from any other guy
+linia 64:		I just wanna tell you how I'm feeling
+linia 65:		Gotta make you understand
+linia 66:		Never gonna give you up
+linia 67:		Never gonna let you down
+linia 68:		Never gonna run around and desert you
+linia 69:		Never gonna make you cry
+linia 70:		Never gonna say goodbye
+linia 71:		Never gonna tell a lie and hurt you
+linia 72:		We've known each other for so long
+linia 73:		Your heart's been aching but you're too shy to say it
+linia 74:		Inside we both know what's been going on
+linia 75:		We know the game and we're gonna play it
+linia 76:		And if you ask me how I'm feeling
+linia 77:		Don't tell me you're too blind to see
+linia 78:		Never gonna give you up
+linia 79:		Never gonna let you down
+linia 80:		Never gonna run around and desert you
+linia 81:		Never gonna make you cry
+linia 82:		Never gonna say goodbye
+linia 83:		Never gonna tell a lie and hurt you
+linia 84:		Never gonna give you up
+linia 85:		Never gonna let you down
+linia 86:		Never gonna run around and desert you
+linia 87:		Never gonna make you cry
+linia 88:		Never gonna say goodbye
+linia 89:		Never gonna tell a lie and hurt you
+linia 90:		Never gonna give, never gonna give
+linia 91:		(Give you up)
+linia 92:		We've known each other for so long
+linia 93:		Your heart's been aching but you're too shy to say it
+linia 94:		Inside we both know what's been going on
+linia 95:		We know the game and we're gonna play it
+linia 96:		I just wanna tell you how I'm feeling
+linia 97:		Gotta make you understand
+linia 98:		Never gonna give you up
+linia 99:		Never gonna let you down
+linia 100:		Never gonna run around and desert you
+linia 101:		Never gonna make you cry
+linia 102:		Never gonna say goodbye
+linia 103:		Never gonna tell a lie and hurt you
+linia 104:		Never gonna give you up
+linia 105:		Never gonna let you down
+linia 106:		Never gonna run around and desert you
+linia 107:		Never gonna make you cry
+linia 108:		Never gonna say goodbye
+linia 109:		Never gonna tell a lie and hurt you
+linia 110:		Never gonna give you up
+linia 111:		Never gonna let you down
+linia 112:		Never gonna run around and desert you
+linia 113:		Never gonna make you cry
+linia 114:		Never gonna say goodbye</p>
+linia 116:		<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+linia 121:		<img src="./image/rick-avatar.jpg" style="width:90%"/>
+linia 124:		<h4>Rick <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+linia 125:		<p>You know the rules and so do I</p>
+linia 135:		<h5>Title description, <span class="w3-opacity">May 2, 2016</span></h5>
+linia 138:		<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+linia 139:		<p>We're no strangers to love
+linia 140:		You know the rules and so do I
+linia 141:		A full commitment's what I'm thinking of
+linia 142:		You wouldn't get this from any other guy
+linia 143:		I just wanna tell you how I'm feeling
+linia 144:		Gotta make you understand
+linia 145:		Never gonna give you up
+linia 146:		Never gonna let you down
+linia 147:		Never gonna run around and desert you
+linia 148:		Never gonna make you cry
+linia 149:		Never gonna say goodbye
+linia 150:		Never gonna tell a lie and hurt you
+linia 151:		We've known each other for so long
+linia 152:		Your heart's been aching but you're too shy to say it
+linia 153:		Inside we both know what's been going on
+linia 154:		We know the game and we're gonna play it
+linia 155:		And if you ask me how I'm feeling
+linia 156:		Don't tell me you're too blind to see
+linia 157:		Never gonna give you up
+linia 158:		Never gonna let you down
+linia 159:		Never gonna run around and desert you
+linia 160:		Never gonna make you cry
+linia 161:		Never gonna say goodbye
+linia 162:		Never gonna tell a lie and hurt you
+linia 163:		Never gonna give you up
+linia 164:		Never gonna let you down
+linia 165:		Never gonna run around and desert you
+linia 166:		Never gonna make you cry
+linia 167:		Never gonna say goodbye
+linia 168:		Never gonna tell a lie and hurt you
+linia 169:		Never gonna give, never gonna give
+linia 170:		(Give you up)
+linia 171:		We've known each other for so long
+linia 172:		Your heart's been aching but you're too shy to say it
+linia 173:		Inside we both know what's been going on
+linia 174:		We know the game and we're gonna play it
+linia 175:		I just wanna tell you how I'm feeling
+linia 176:		Gotta make you understand
+linia 177:		Never gonna give you up
+linia 178:		Never gonna let you down
+linia 179:		Never gonna run around and desert you
+linia 180:		Never gonna make you cry
+linia 181:		Never gonna say goodbye
+linia 182:		Never gonna tell a lie and hurt you
+linia 183:		Never gonna give you up
+linia 184:		Never gonna let you down
+linia 185:		Never gonna run around and desert you
+linia 186:		Never gonna make you cry
+linia 187:		Never gonna say goodbye
+linia 188:		Never gonna tell a lie and hurt you
+linia 189:		Never gonna give you up
+linia 190:		Never gonna let you down
+linia 191:		Never gonna run around and desert you
+linia 192:		Never gonna make you cry
+linia 193:		Never gonna say goodbye</p>
+linia 195:		<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+linia 207:		<img alt="Girl Hat" class="w3-padding-16" src="./image/rick.gif" style="width:100%"/>
+linia 208:		<p>We're no strangers to love
+linia 209:		You know the rules and so do I
+linia 210:		A full commitment's what I'm thinking of
+linia 211:		You wouldn't get this from any other guy
+linia 212:		I just wanna tell you how I'm feeling
+linia 213:		Gotta make you understand
+linia 214:		Never gonna give you up
+linia 215:		Never gonna let you down
+linia 216:		Never gonna run around and desert you
+linia 217:		Never gonna make you cry
+linia 218:		Never gonna say goodbye
+linia 219:		Never gonna tell a lie and hurt you
+linia 220:		We've known each other for so long
+linia 221:		Your heart's been aching but you're too shy to say it
+linia 222:		Inside we both know what's been going on
+linia 223:		We know the game and we're gonna play it
+linia 224:		And if you ask me how I'm feeling
+linia 225:		Don't tell me you're too blind to see
+linia 226:		Never gonna give you up
+linia 227:		Never gonna let you down
+linia 228:		Never gonna run around and desert you
+linia 229:		Never gonna make you cry
+linia 230:		Never gonna say goodbye
+linia 231:		Never gonna tell a lie and hurt you
+linia 232:		Never gonna give you up
+linia 233:		Never gonna let you down
+linia 234:		Never gonna run around and desert you
+linia 235:		Never gonna make you cry
+linia 236:		Never gonna say goodbye
+linia 237:		Never gonna tell a lie and hurt you
+linia 238:		Never gonna give, never gonna give
+linia 239:		(Give you up)
+linia 240:		We've known each other for so long
+linia 241:		Your heart's been aching but you're too shy to say it
+linia 242:		Inside we both know what's been going on
+linia 243:		We know the game and we're gonna play it
+linia 244:		I just wanna tell you how I'm feeling
+linia 245:		Gotta make you understand
+linia 246:		Never gonna give you up
+linia 247:		Never gonna let you down
+linia 248:		Never gonna run around and desert you
+linia 249:		Never gonna make you cry
+linia 250:		Never gonna say goodbye
+linia 251:		Never gonna tell a lie and hurt you
+linia 252:		Never gonna give you up
+linia 253:		Never gonna let you down
+linia 254:		Never gonna run around and desert you
+linia 255:		Never gonna make you cry
+linia 256:		Never gonna say goodbye
+linia 257:		Never gonna tell a lie and hurt you
+linia 258:		Never gonna give you up
+linia 259:		Never gonna let you down
+linia 260:		Never gonna run around and desert you
+linia 261:		Never gonna make you cry
+linia 262:		Never gonna say goodbye</p>
+linia 264:		<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">420</span></button></p>
+linia 307:		<img alt="Rick" class="w3-grayscale" src="./image/rick-avatar.jpg" style="width:100%"/>
+linia 309:		<h4>RickRoll</h4>
+linia 310:		<p>is a prank and an Internet meme involving an unexpected appearance of the music video for the 1987 song "Never Gonna Give You Up," performed by the English singer Rick Astley. The meme is a type of bait and switch using a disguised hyperlink that leads to the music video. When victims click on a seemingly unrelated link, the site with the music video loads instead of what was expected, and they have been "Rickrolled". The meme has also extended to using the song's lyrics, or singing it, in unexpected contexts. Astley himself has also been Rickrolled several times.</p>
+linia 321:		<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+linia 322:		<span class="w3-large">Impostor</span>
+linia 327:		<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+linia 328:		<span class="w3-large">Is</span>
+linia 333:		<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+linia 334:		<span class="w3-large">Among</span>
+linia 339:		<img alt="Image" class="w3-left w3-margin-right" src="./image/among.jpg" style="width:50px"/>
+linia 340:		<span class="w3-large">Us</span>
+linia 350:		<h4>Your Daily Motivation</h4>
+linia 353:		<p><img alt="Jeans" src="./image/breathtaking.gif" style="width:100%"/></p>
+linia 369:		<span class="w3-tag w3-black w3-margin-bottom">Rick</span>
+linia 370:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 371:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 372:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 373:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 374:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 375:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 376:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 377:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 378:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 379:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 380:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 381:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 382:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Rick</span>
+linia 390:		<h4>My Tram</h4>
+linia 394:		<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+linia 395:		<p><img alt="Jeans" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+linia 398:		<p><img alt="Men in Hats" src="./image/tramwaj-2.jpg" style="width:100%"/></p>
+linia 399:		<p><img alt="Jeans" src="./image/tramwaj-1.jpg" style="width:100%"/></p>
+
+linia(-e), które zostały dodane i może zmienione w starym kodzie:
+linia 31:		<!-- Navigation bar with social media icons -->
+linia 32:		<div class="w3-bar w3-black w3-hide-small">
+linia 33:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-facebook-official"></i></a>
+linia 34:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-instagram"></i></a>
+linia 35:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-snapchat"></i></a>
+linia 36:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-flickr"></i></a>
+linia 37:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-twitter"></i></a>
+linia 38:		<a class="w3-bar-item w3-button" href="#"><i class="fa fa-linkedin"></i></a>
+linia 39:		<a class="w3-bar-item w3-button w3-right" href="#"><i class="fa fa-search"></i></a>
+linia 46:		<h1 class="w3-xxxlarge"><b>JANE BLOGLIFE</b></h1>
+linia 47:		<h6>Welcome to the blog of <span class="w3-tag">Jane's world</span></h6>
+linia 51:		<img alt="Fashion Blog" class="mySlides1" src="./image/jane.jpg" width="100%"/>
+linia 52:		<img alt="Fashion Blog" class="mySlides1" src="./image/jane2.jpg" width="100%"/>
+linia 53:		<img alt="Fashion Blog" class="mySlides1" src="./image/jane3.jpg" width="100%"/>
+linia 55:		<h1 class="w3-text-white">Jane's</h1>
+linia 56:		<h1 class="w3-jumbo w3-text-white w3-hide-small"><b>FASHION BLOG</b></h1>
+linia 57:		<h6><button class="w3-button w3-white w3-padding-large w3-large w3-opacity w3-hover-opacity-off" onclick="document.getElementById('subscribe').style.display='block'">SUBSCRIBE</button></h6>
+linia 59:		<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+linia 62:		<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 0)"></span>
+linia 63:		<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 0)"></span>
+linia 64:		<span class="w3-badge myDots1 w3-border w3-transparent w3-hover-white" onclick="currentDiv(3, 0)"></span>
+linia 78:		<div class="w3-display-container">
+linia 79:		<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat.jpg" style="width:100%"/>
+linia 80:		<img alt="Girl Hat" class="mySlides2" src="./image/girl_hat2.jpg" style="width:100%"/>
+linia 81:		<div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+linia 84:		<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(1, 1)"></span>
+linia 85:		<span class="w3-badge myDots2 w3-border w3-transparent w3-hover-white" onclick="currentDiv(2, 1)"></span>
+linia 88:		<p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
+linia 89:		magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+linia 90:		<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+linia 92:		<p class="w3-right"><button class="w3-button w3-black" id="myBtn" onclick="myFunction('demo1')"><b>Replies  </b> <span class="w3-tag w3-white">1</span></button></p>
+linia 95:		<hr/>
+linia 96:		<div class="w3-col l2 m3">
+linia 97:		<img src="./image/avatar_smoke.jpg" style="width:90px;"/>
+linia 99:		<div class="w3-col l10 m9">
+linia 100:		<h4>George <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+linia 101:		<p>Great blog post! Following</p>
+linia 111:		<h5>Title description, <span class="w3-opacity">April 23, 2016</span></h5>
+linia 114:		<img alt="Men in Hats" class="w3-padding-16" src="./image/man_hat.jpg" style="width:100%"/>
+linia 115:		<p><strong>Hats!</strong> The trend this summer is hats for men!</p>
+linia 116:		<p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
+linia 117:		mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+linia 119:		<p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
+linia 122:		<div id="demo2" style="display:none">
+linia 123:		<div class="w3-row">
+linia 125:		<div class="w3-col l2 m3">
+linia 126:		<img src="./image/girl_train.jpg" style="width:90px;"/>
+linia 128:		<div class="w3-col l10 m9">
+linia 129:		<h4>Amber <span class="w3-opacity w3-medium">April 26, 2015, 10:52 PM</span></h4>
+linia 130:		<p>Love your blog page! Simply the best! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><br/>
+linia 133:		<div class="w3-row w3-margin-bottom">
+linia 134:		<div class="w3-col l2 m3">
+linia 135:		<img src="./image/girl.jpg" style="width:90px;"/>
+linia 137:		<div class="w3-col l10 m9">
+linia 138:		<h4>Angie <span class="w3-opacity w3-medium">April 23, 2015, 9:12 PM</span></h4>
+linia 139:		<p>Love hats!!</p>
+linia 149:		<h5>Title description, <span class="w3-opacity">April 7, 2016</span></h5>
+linia 152:		<img alt="Runway" class="w3-padding-16" src="./image/runway.jpg" style="width:100%"/>
+linia 153:		<p><strong>Dont miss!</strong> The runway in New York City this weekend is gonna be legendary!</p>
+linia 154:		<p>Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies
+linia 155:		mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+linia 157:		<p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
+linia 160:		<div id="demo3" style="display:none">
+linia 162:		<div class="w3-row w3-margin-bottom">
+linia 163:		<div class="w3-col l2 m3">
+linia 164:		<img src="./image/girl_mountain.jpg" style="width:90px;"/>
+linia 166:		<div class="w3-col l10 m9">
+linia 167:		<h4>Jane <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
+linia 168:		<p>That was a great runway show! Thanks for everything.</p>
+linia 171:		<div class="w3-row w3-margin-bottom">
+linia 172:		<div class="w3-col l2 m3">
+linia 173:		<img src="./image/boy.jpg" style="width:90px;"/>
+linia 175:		<div class="w3-col l10 m9">
+linia 176:		<h4>John <span class="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
+linia 177:		<p>Keep up the GREAT work! I am cheering for you!! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+linia 180:		<div class="w3-row w3-margin-bottom">
+linia 182:		<img src="./image/girl_hood.jpg" style="width:90px;"/>
+linia 185:		<h4>Anja <span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4>
+linia 186:		<p>Cant wait for the runway to start!</p>
+linia 229:		<div class="w3-white w3-margin">
+linia 230:		<img alt="Jane" class="w3-grayscale" src="./image/avatar_girl2.jpg" style="width:100%"/>
+linia 232:		<h4>My Name</h4>
+linia 233:		<p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
+linia 238:		<div class="w3-white w3-margin">
+linia 239:		<div class="w3-container w3-padding w3-black">
+linia 244:		<img alt="Image" class="w3-left w3-margin-right" src="./image/avatar_smoke.jpg" style="width:50px"/>
+linia 245:		<span class="w3-large">Denim</span>
+linia 250:		<img alt="Image" class="w3-left w3-margin-right" src="./image/bandmember.jpg" style="width:50px"/>
+linia 251:		<span class="w3-large">Sweaters</span>
+linia 256:		<img alt="Image" class="w3-left w3-margin-right" src="./image/workshop.jpg" style="width:50px"/>
+linia 257:		<span class="w3-large">Workshop</span>
+linia 262:		<img alt="Image" class="w3-left w3-margin-right w3-sepia" src="./image/avatar_smoke.jpg" style="width:50px"/>
+linia 263:		<span class="w3-large">Trends</span>
+linia 272:		<div class="w3-container w3-padding w3-black">
+linia 273:		<h4>Advertise</h4>
+linia 275:		<div class="w3-container w3-center w3-white">
+linia 276:		<div class="w3-container w3-display-container w3-light-grey w3-section w3-center" id="banner-ad" style="width: 100%; height: 100%">
+linia 277:		<span class="w3-display-middle">
+linia 283:		</span>
+linia 295:		<span class="w3-tag w3-black w3-margin-bottom">Fashion</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+linia 296:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Hats</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Norway</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sweaters</span>
+linia 297:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Deals</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Accessories</span>
+linia 298:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+linia 299:		<span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Jeans</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Trends</span>
+linia 307:		<h4>Inspiration</h4>
+linia 311:		<p><img alt="Jeans" src="./image/jeans.jpg" style="width:100%"/></p>
+linia 312:		<p><img alt="Jeans" src="./image/team1.jpg" style="width:100%"/></p>
+linia 315:		<p><img alt="Men in Hats" class="w3-grayscale" src="./image/avatar_hat.jpg" style="width:100%"/></p>
+linia 316:		<p><img alt="Jeans" src="./image/team4.jpg" style="width:100%"/></p>
+linia 323:		<h4>Follow Me</h4>
+linia 325:		<div class="w3-container w3-xlarge w3-padding">
+linia 326:		<i class="fa fa-facebook-official w3-hover-opacity"></i>
+linia 327:		<i class="fa fa-instagram w3-hover-opacity"></i>
+linia 328:		<i class="fa fa-snapchat w3-hover-opacity"></i>
+linia 329:		<i class="fa fa-pinterest-p w3-hover-opacity"></i>
+linia 330:		<i class="fa fa-twitter w3-hover-opacity"></i>
+linia 331:		<i class="fa fa-linkedin w3-hover-opacity"></i>
+linia 338:		<h4>Subscribe</h4>
+linia 341:		<p>Enter your e-mail below and get notified on the latest blog posts.</p>
+linia 342:		<p><input class="w3-input w3-border" placeholder="Enter e-mail" style="width:100%" type="text"/></p>
+linia 343:		<p><button class="w3-button w3-block w3-red" onclick="document.getElementById('subscribe').style.display='block'" type="button">Subscribe</button></p>

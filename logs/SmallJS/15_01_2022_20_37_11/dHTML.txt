@@ -1,0 +1,6 @@
+Nastąpiła zmiana w lini(-ach):
+linia 450:		<button onclick="myFunction()">Secret Button</button>
+linia 455:		let person = prompt("Please enter your name:", "Jane");
+linia 457:		text = "User cancelled the prompt.";
+linia 459:		text = "Hello " + person + "!\nYou found the Secret!\n";
+linia 460:		alert("Here is the secret phrase!");
