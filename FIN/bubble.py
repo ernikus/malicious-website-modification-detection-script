@@ -213,9 +213,9 @@ def checkHTML(f1, f2):
 
 # ~ I am thinking about giving here only path to the right folder and in function specify the files to compare ~
 
-file_no1 = "/home/kali/Desktop/project/log/14_01_2022/HTML.txt"
-file_no2 = "/home/kali/Desktop/project/log/14_01_2022_09_00_41/HTML.txt"
+# file_no1 = "/home/kali/Desktop/project/log/14_01_2022/HTML.txt"
+# file_no2 = "/home/kali/Desktop/project/log/14_01_2022_09_00_41/HTML.txt"
 
-checkHTML(file_no1, file_no2)
+# checkHTML(file_no1, file_no2)
 
 # checkHTML()

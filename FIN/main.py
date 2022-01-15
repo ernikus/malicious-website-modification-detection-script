@@ -8,7 +8,7 @@
 import time
 import os
 from PathFinder import directory
-from FusionScrap import FusionScrap
+from reqFusionScrap import FusionScrap
 from bubble import checkHTML
 from porownanie_hashy import porownanie
 from zapis_danych import zapis
