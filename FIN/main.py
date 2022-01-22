@@ -26,18 +26,18 @@ mail = ''
 password = ''
 
 print("Co jaki czas chcesz aby sprawdzac zmiany na stronie?\n")
-#d = int(input("Podaj ilosc dni: "))
-d=0
-#h = int(input("Podaj ilosc godzin(jesli podasz wiecej niz 24 zostana one dodane do ilosci dni): "))
-h=0.0042
-#if(h<1):
-#    exit()
-#elif(d<0):
-#    exit()
-#elif(h>24):
-#    x = int(h/24)
-#    d += x
-#    h = h - (24 * x)
+d = int(input("Podaj ilosc dni: "))
+#d=0
+h = float(input("Podaj ilosc godzin(jesli podasz wiecej niz 24 zostana one dodane do ilosci dni): "))
+#h=0.0042
+if(h<0):
+    exit()
+elif(d<0):
+    exit()
+elif(h>24):
+    x = int(h/24)
+    d += x
+    h = h - (24 * x)
 
 if d==0:
     tim = 3600 * h
