@@ -15,7 +15,7 @@ from zapis_danych import zapis
 from info import email, info
 
 #url = input("Podaj pelny url strony: ") #
-url = "https://www.paniswojegoczasu.pl/blog/"
+url = "http://127.0.0.1:8080/"
 
 #podaj email na ktorego beda szly powiadomienia
 #mail = input("Podaj swoj mail: ")
