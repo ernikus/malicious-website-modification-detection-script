@@ -1,7 +1,13 @@
-
 # Malicious Website Modification Detection Script
 
 ¯ \ _(ツ) _ /¯
+
+## ❗❗❗ PRESENTATION INFO ❗❗❗
+ - url:  http://127.0.0.1:8080/
+ - mail:  ''
+ - password:  ''
+ - d: 0
+ - h: 0.0042
 
 ## Requirements
 
@@ -13,7 +19,7 @@
  - Installed **Firefox Browser** [installed by default in most Linux Distros]
  - Access to the **Internet** - Download Nginx Image for Docker
  - Access to **Administrator Account** for Setting Docker Containers and Right Privileges
- - Aby otrzymywać mail-e na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji
+ - Aby otrzymywać maile na skrzynke gmail - włączyć "Dostęp mniej bezpiecznych aplikacji
 
 ## Warning
 
@@ -49,8 +55,7 @@
 	 - [x] Analyse Data
 	 - [x] Correct Program
 	 - [x] Prevent Errors
- - [ ] Create Documentation
- - [ ] Create Report
+ - [x] Create Report
  - [ ] Send a Report
  - [ ] Celebrate 🎉🎉🎉
 
