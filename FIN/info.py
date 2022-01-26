@@ -33,25 +33,25 @@ def email(plik, plik1, mail, password):
         tek1.append(line+"\n")
 
     #print(tek1)
+    if((len(tek)>1) or (len(tek1)>1)):
+        message = ''.join(tek)
+        message1 = ''.join(tek1)
+        msg = MIMEMultipart()
+        msg['From'] = 'Skrypt wykrywający zmiany stron www'
+        msg['To'] = mail
+        msg['Subject'] = 'Możliwość ataku na twoją strone internetową!'
+        message = "Na twojej stronie internetowej zostały znalezione poniższe zmiany:\
+        \n" + message + "\n" + message1 +"\nW razie wątpliwości zaleca się sprawdzenie podanych elementów.\
+        \n\nPozdrawia team ZiT"
+        msg.attach(MIMEText(message))
 
-    message = ''.join(tek)
-    message1 = ''.join(tek1)
-    msg = MIMEMultipart()
-    msg['From'] = 'Skrypt wykrywający zmiany stron www'
-    msg['To'] = mail
-    msg['Subject'] = 'Możliwość ataku na twoją strone internetową!'
-    message = "Na twojej stronie internetowej zostały znalezione poniższe zmiany:\
-    \n" + message + "\n" + message1 +"\nW razie wątpliwości zaleca się sprawdzenie podanych elementów.\
-    \n\nPozdrawia team ZiT"
-    msg.attach(MIMEText(message))
-
-    mailserver = smtplib.SMTP('smtp.gmail.com',587)
-    mailserver.ehlo()
-    mailserver.starttls()
-    mailserver.ehlo()
-    mailserver.login(mail, password)
-    mailserver.sendmail(mail, mail, msg.as_string())
-    mailserver.quit()
+        mailserver = smtplib.SMTP('smtp.gmail.com',587)
+        mailserver.ehlo()
+        mailserver.starttls()
+        mailserver.ehlo()
+        mailserver.login(mail, password)
+        mailserver.sendmail(mail, mail, msg.as_string())
+        mailserver.quit()
 
 def info(plik):
     plik = open(plik, 'r')
